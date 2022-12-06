@@ -1,0 +1,1001 @@
+id,fecha_evento,planeado,evento,lugar,intrusion
+1,12/11/2021,false,Romeo Quebec Uniform X-ray India Whiskey Charlie Sierra Echo Golf Juliett Victor Delta Bravo Zulu Alfa,AS,false
+2,10/22/2021,false,Uniform Echo Juliett Alfa Quebec Sierra Yankee Delta Whiskey Victor Bravo India Kilo Charlie Foxtrot Mike Papa X-ray November,OC,false
+3,10/2/2021,true,Tango Hotel Charlie Golf Alfa Juliett November Quebec Sierra Romeo X-ray Echo Victor Bravo Whiskey Foxtrot India Yankee,AF,true
+4,10/29/2021,false,November Echo Papa Tango Bravo Uniform Yankee Foxtrot Kilo Oscar Romeo Sierra Whiskey Hotel Charlie X-ray Alfa Quebec Victor,NA,true
+5,9/28/2021,true,Yankee Alfa Sierra India Kilo Charlie Papa Echo Uniform Whiskey,NA,false
+6,7/19/2021,true,Yankee Bravo Alfa Oscar Lima Romeo Charlie Sierra Victor X-ray November Delta Zulu India Hotel Kilo Tango,SA,true
+7,11/5/2021,false,Papa Oscar Golf Mike Kilo Delta Charlie November Tango X-ray Bravo Echo Quebec Victor,SA,false
+8,10/8/2021,false,Kilo Victor Lima Mike Whiskey Charlie November Uniform Yankee Alfa Echo Foxtrot Golf Tango India,NA,false
+9,8/2/2021,true,Bravo Tango India Juliett Oscar Delta Echo Golf Whiskey Quebec Hotel,AS,false
+10,10/22/2021,false,Hotel Lima Uniform Yankee Alfa Zulu Whiskey Oscar Echo Bravo Papa Golf India Sierra Quebec X-ray Kilo Charlie,AF,false
+11,8/30/2021,false,Mike Hotel Golf Sierra Delta Whiskey Papa November Tango Zulu Quebec Victor Oscar Lima,NA,false
+12,7/30/2021,true,Yankee Victor India Whiskey Zulu X-ray Hotel Delta Charlie Lima,OC,true
+13,9/18/2021,false,India Hotel Juliett Foxtrot Lima Papa Yankee Alfa Golf Delta Oscar Quebec,OC,false
+14,12/3/2021,true,Hotel November Zulu Delta Romeo Lima Bravo Quebec Whiskey Foxtrot,NA,true
+15,10/24/2021,true,Oscar Sierra Victor Quebec Charlie Kilo November Zulu Romeo Mike Whiskey Uniform,SA,true
+16,7/24/2021,false,Lima Whiskey Bravo India Mike Sierra Foxtrot X-ray Charlie November Echo Oscar,NA,false
+17,11/3/2021,false,Foxtrot Hotel Lima Zulu Victor Oscar Golf Mike Juliett Delta Quebec Charlie Uniform Alfa Yankee November,OC,true
+18,12/1/2021,true,Mike Whiskey Delta Zulu Charlie Papa Golf Oscar Hotel X-ray Tango Echo Alfa Romeo Yankee,AS,false
+19,11/28/2021,false,Sierra Yankee India Charlie Romeo Tango Hotel Juliett Bravo Golf Uniform November Whiskey Echo Oscar Zulu,OC,true
+20,12/25/2021,false,X-ray Hotel Mike Zulu Charlie Victor Quebec Whiskey Yankee Papa Juliett Lima Romeo Tango Alfa India Oscar,AF,false
+21,7/4/2021,false,Uniform November Delta Papa Juliett X-ray India Quebec Alfa Foxtrot Echo Mike Kilo Hotel,NA,true
+22,10/4/2021,true,Delta India Sierra X-ray Alfa Yankee Victor Uniform Whiskey November Quebec Hotel Romeo Oscar,SA,true
+23,12/21/2021,false,Tango Lima Golf Quebec Charlie Oscar Foxtrot Zulu November Bravo Kilo Mike Hotel Juliett Delta Whiskey Yankee X-ray Papa Romeo,AF,true
+24,11/22/2021,true,Quebec Whiskey Charlie Papa Mike Juliett Echo Yankee Tango India Oscar Alfa,NA,false
+25,12/27/2021,false,Alfa Papa Charlie Golf Delta Mike Lima Tango X-ray Zulu Hotel Victor Uniform Sierra India Echo Whiskey Quebec Yankee,NA,true
+26,8/1/2021,false,Victor Yankee Charlie Mike Golf Romeo Echo India Oscar Uniform Juliett,OC,false
+27,8/30/2021,true,November Delta Foxtrot Uniform Charlie Papa Quebec Romeo X-ray Hotel Sierra Oscar Mike Victor Alfa Yankee Tango Bravo,NA,true
+28,12/14/2021,true,Papa Kilo Delta Quebec Yankee Charlie Whiskey India Romeo Foxtrot Juliett Victor Lima Alfa November Sierra Mike Hotel Oscar X-ray,NA,false
+29,10/13/2021,true,Hotel Bravo Echo Victor Kilo November Lima Yankee X-ray Alfa Sierra Uniform Quebec Juliett Tango Golf Romeo,NA,false
+30,7/2/2021,true,Lima Hotel Tango Echo India Bravo Uniform Sierra Whiskey Kilo Charlie Quebec Papa,AS,false
+31,8/3/2021,true,Charlie Lima Golf Bravo Sierra Oscar X-ray Zulu Kilo Foxtrot Yankee Papa Delta,OC,true
+32,8/3/2021,false,Lima Bravo Papa Quebec Hotel Foxtrot Sierra Romeo Golf Whiskey Kilo Delta Yankee Juliett India Victor Charlie Tango Mike,AS,true
+33,8/30/2021,false,Alfa Hotel Sierra Quebec Yankee Lima Golf Tango Romeo Victor Uniform Bravo Kilo Juliett Whiskey Oscar Papa Mike,NA,true
+34,7/16/2021,false,Papa Golf Yankee Tango Victor Romeo Oscar Sierra Zulu Delta,NA,true
+35,10/21/2021,false,Oscar Victor Alfa Bravo Kilo Mike Delta Quebec India Hotel Whiskey Uniform,AS,false
+36,7/28/2021,false,Whiskey Victor Papa Oscar Charlie Tango X-ray Kilo Juliett Quebec November Mike Alfa Zulu Sierra Delta,NA,true
+37,9/22/2021,true,Tango Victor Juliett Papa Yankee Lima Whiskey Uniform Golf Delta Kilo India Oscar Romeo Quebec,NA,true
+38,10/2/2021,true,Kilo Uniform Whiskey Sierra Zulu Echo Bravo Mike Romeo Golf,AF,false
+39,8/5/2021,false,X-ray Sierra November Juliett India Romeo Uniform Victor Yankee Oscar Zulu Delta Quebec Golf Bravo Alfa,OC,false
+40,12/3/2021,false,Uniform Hotel Mike Yankee Charlie Juliett Zulu Romeo Papa Whiskey X-ray Quebec Bravo Lima Echo Tango Sierra,NA,false
+41,9/16/2021,true,Mike Tango Foxtrot Sierra Victor Charlie November Uniform Romeo India X-ray Lima Delta Golf Hotel Echo Whiskey,OC,true
+42,11/4/2021,true,Echo Juliett Foxtrot Quebec Sierra Bravo Victor Charlie Romeo Tango Oscar Yankee Uniform November Lima Papa Zulu,OC,true
+43,9/13/2021,false,Bravo Lima Kilo Alfa Juliett Foxtrot Sierra Echo Romeo Victor Tango Delta Hotel Quebec Uniform November,AF,false
+44,11/1/2021,true,Juliett Golf Quebec Uniform November Charlie Lima Bravo Victor Kilo Echo X-ray Foxtrot,SA,false
+45,7/8/2021,true,Kilo Oscar India Alfa Bravo November Echo Whiskey Sierra Delta Uniform Quebec Charlie Juliett Foxtrot Victor Mike,AS,false
+46,10/5/2021,false,Delta Foxtrot Kilo Charlie Zulu Mike Tango Papa Lima Victor,EU,false
+47,9/24/2021,false,Bravo Lima Tango Juliett Papa November Uniform Delta Charlie Sierra Quebec Alfa Kilo,EU,true
+48,12/3/2021,false,Alfa Victor Delta Sierra Tango Bravo Kilo Zulu Hotel Yankee Romeo Mike,OC,false
+49,11/6/2021,true,Uniform Bravo X-ray Golf Lima Mike Victor Whiskey Sierra Echo Delta India Kilo Yankee Hotel Alfa Romeo Tango,NA,false
+50,7/6/2021,false,India X-ray Romeo Hotel Uniform Juliett Whiskey Foxtrot Oscar Quebec Papa Yankee Golf Echo Lima Charlie Tango Mike,AS,true
+51,12/11/2021,false,Echo Foxtrot Uniform Alfa India X-ray Victor Zulu Charlie Yankee Delta Golf,OC,false
+52,10/22/2021,true,Charlie Juliett Delta Papa Yankee Uniform Victor Tango Mike Romeo Quebec Hotel Zulu X-ray Alfa November Golf Kilo Echo,AS,true
+53,9/6/2021,true,Zulu Yankee Golf Charlie Kilo Sierra Foxtrot Juliett Delta Oscar,NA,false
+54,11/2/2021,true,Delta Foxtrot Golf Lima Sierra Bravo Uniform India Mike November Papa,NA,false
+55,12/1/2021,true,Alfa Delta Whiskey Kilo Tango India November Quebec Mike Uniform,AS,true
+56,10/12/2021,true,Victor Kilo Whiskey Papa India Zulu November Oscar X-ray Alfa Delta Juliett Uniform Foxtrot Quebec Charlie Hotel,SA,true
+57,10/12/2021,true,Charlie Tango Whiskey Papa Golf X-ray Romeo Hotel November Quebec Foxtrot,OC,false
+58,9/11/2021,true,Golf India Charlie Juliett Delta Alfa Quebec Kilo Sierra November Mike Papa Oscar Uniform Whiskey,NA,true
+59,10/7/2021,false,Lima India Uniform Bravo Charlie Yankee Whiskey Kilo X-ray Alfa Quebec,EU,true
+60,7/18/2021,false,Victor Tango Uniform Hotel Kilo Foxtrot Echo Bravo India Juliett Lima Zulu Sierra Yankee,OC,false
+61,11/12/2021,false,Uniform Mike Papa Romeo Alfa Charlie Echo India Golf Lima X-ray Oscar Zulu Hotel Bravo Juliett Yankee Foxtrot,OC,false
+62,12/18/2021,false,Oscar Whiskey Hotel Zulu November Victor Juliett Lima Quebec Charlie Kilo Yankee Echo Uniform,OC,true
+63,7/12/2021,false,Yankee Uniform India Alfa Papa Hotel Tango Charlie X-ray Zulu November Mike Victor Golf Quebec Delta Whiskey Bravo Lima Foxtrot,NA,true
+64,9/7/2021,false,Kilo X-ray Echo Mike Zulu Whiskey Juliett Victor Romeo Foxtrot Delta Papa Bravo Yankee Golf,AS,false
+65,10/14/2021,true,India X-ray Yankee Alfa Oscar Golf Victor Echo Zulu Sierra Charlie Foxtrot Kilo November,OC,true
+66,10/6/2021,false,Papa Echo Hotel Kilo Sierra Charlie Juliett Romeo Oscar Alfa Victor X-ray Yankee,NA,true
+67,12/6/2021,false,Uniform Whiskey Kilo Lima Bravo Echo Hotel Quebec Alfa Golf Romeo,OC,true
+68,12/20/2021,false,Charlie Yankee Tango Juliett Bravo Kilo November Zulu Foxtrot Uniform,EU,true
+69,7/6/2021,false,Bravo Alfa Oscar Tango Romeo India Hotel Yankee Papa November Charlie X-ray Uniform Quebec Delta Victor Kilo Sierra Zulu,AS,true
+70,8/6/2021,true,Romeo Delta X-ray Mike Uniform Kilo Charlie Zulu Alfa Juliett India Victor Sierra Quebec Oscar Golf Foxtrot Yankee,AS,false
+71,12/14/2021,false,Juliett Whiskey Lima Papa Alfa Bravo Golf Uniform India Zulu Echo Charlie Sierra Romeo Tango X-ray,NA,true
+72,9/18/2021,false,Golf Papa November Lima Hotel Mike Charlie Tango India Bravo Whiskey,NA,false
+73,9/9/2021,false,Juliett Oscar Bravo Mike Zulu Golf X-ray Foxtrot Uniform Papa Hotel Sierra Kilo Echo,AS,true
+74,7/9/2021,true,Foxtrot Delta Oscar Victor Lima Papa Romeo Whiskey X-ray Tango Kilo Hotel Juliett Uniform Bravo Mike Golf India November,OC,true
+75,8/12/2021,true,Whiskey Hotel Yankee Golf Papa Charlie Victor Quebec Alfa Juliett Delta X-ray Oscar India November,AF,true
+76,12/2/2021,false,Kilo Foxtrot Whiskey Sierra Quebec Mike Delta Tango Victor Zulu Alfa Yankee,SA,false
+77,10/21/2021,false,Lima Golf Victor Uniform Whiskey Romeo Yankee Hotel Bravo Delta Quebec Echo Oscar Zulu,SA,false
+78,12/17/2021,true,Golf Sierra Mike Charlie Victor Yankee Echo Juliett Whiskey Quebec Hotel Foxtrot Papa Bravo Lima,SA,false
+79,9/18/2021,false,Juliett Golf Charlie Mike Delta Whiskey Tango Alfa Sierra Romeo Lima Quebec November,EU,true
+80,10/9/2021,false,Bravo Uniform Papa India Sierra Juliett Charlie Romeo Mike X-ray November Oscar Echo Yankee Delta Tango Whiskey Lima Kilo Golf,EU,false
+81,12/14/2021,false,Hotel Lima X-ray Kilo November Tango Juliett Zulu Sierra Quebec Romeo Oscar Victor Delta Mike Yankee Whiskey Papa Echo Bravo,OC,false
+82,8/17/2021,false,Tango Uniform Quebec November Juliett Mike Echo Delta Foxtrot Charlie Victor Golf Whiskey X-ray Kilo,NA,false
+83,8/18/2021,false,Yankee Zulu Charlie Tango Echo November India Oscar Uniform Mike Golf Juliett Delta Hotel Sierra Romeo Papa Alfa Whiskey Lima,SA,true
+84,12/30/2021,false,Mike Juliett Delta Uniform Yankee X-ray Victor November Romeo Sierra Foxtrot Hotel Bravo Quebec Lima Oscar,AS,true
+85,11/8/2021,true,Charlie Oscar Lima Echo Zulu India X-ray Whiskey Romeo Uniform November Golf Tango Foxtrot Mike Bravo,EU,true
+86,12/9/2021,true,Juliett Yankee Tango Charlie Hotel Zulu Uniform Oscar Romeo Lima Whiskey Golf Papa Mike Delta Kilo,AF,false
+87,8/24/2021,false,Charlie Victor Bravo Whiskey Golf Quebec Tango Oscar Foxtrot Sierra,NA,true
+88,8/30/2021,true,Kilo Zulu Foxtrot Charlie India Golf Mike Romeo Alfa Echo,AS,false
+89,12/24/2021,true,Echo Hotel Oscar Victor Bravo Mike Romeo Sierra Golf Tango Yankee,NA,false
+90,12/3/2021,false,Golf Lima Alfa Mike X-ray Victor India Hotel Kilo Delta Echo Oscar Uniform Tango Bravo,NA,false
+91,11/29/2021,false,X-ray Victor Kilo Tango Alfa Quebec Bravo Sierra Lima Mike,NA,false
+92,7/9/2021,false,X-ray Charlie Foxtrot Yankee Sierra Echo Whiskey Quebec Hotel Bravo Lima November Papa Kilo Alfa,OC,false
+93,10/1/2021,true,India Foxtrot Golf Yankee Papa X-ray Mike Tango Romeo November Whiskey Bravo,EU,true
+94,11/17/2021,true,Alfa Papa Oscar Echo Golf Hotel November Mike Kilo Charlie Tango Juliett,NA,true
+95,10/6/2021,true,Kilo Romeo Zulu Quebec Golf Uniform Tango Sierra Delta November Charlie Echo Bravo Yankee Foxtrot Oscar Mike,NA,false
+96,12/3/2021,true,Alfa Bravo Uniform Echo Foxtrot Oscar Juliett Lima India X-ray Victor Golf,NA,true
+97,8/4/2021,false,Papa Oscar Tango Victor Golf Bravo November Whiskey Hotel Delta Echo Romeo Kilo India Sierra Juliett Foxtrot X-ray Lima,EU,true
+98,7/30/2021,false,Yankee Delta Alfa Golf Mike Kilo Romeo X-ray Bravo Lima Charlie November India Victor Uniform Quebec,AF,false
+99,7/30/2021,false,November Foxtrot Echo Alfa Bravo Yankee Lima Quebec India Victor Zulu Oscar Papa Charlie Sierra Whiskey Romeo,NA,false
+100,10/8/2021,true,Alfa Romeo Uniform Lima Sierra Bravo Charlie Tango X-ray Quebec Hotel Oscar Juliett Zulu November Delta Whiskey,AS,false
+101,11/20/2021,true,Papa Tango Foxtrot Echo Oscar November Kilo Whiskey Mike Alfa Sierra,OC,false
+102,12/30/2021,false,Delta November Victor Whiskey Echo X-ray Oscar Uniform Lima Yankee Kilo,OC,true
+103,12/22/2021,false,Whiskey Bravo Alfa Mike Quebec Juliett Uniform November Romeo Zulu Papa Hotel India Victor Echo,EU,true
+104,7/3/2021,false,Whiskey Zulu November Papa India Oscar Bravo Yankee Echo Foxtrot,AS,true
+105,11/14/2021,false,Sierra Alfa November India Tango Romeo Whiskey Delta Uniform Mike Victor Charlie,AS,true
+106,11/24/2021,false,Romeo Lima November Bravo Golf Mike Kilo India Hotel Quebec Tango,AS,false
+107,9/16/2021,true,Whiskey Tango Alfa November X-ray Victor India Papa Hotel Echo Kilo Lima Quebec Sierra,NA,false
+108,12/10/2021,false,Quebec Kilo Zulu Victor November Mike Lima Tango Alfa Romeo Yankee Whiskey Bravo Oscar Uniform Echo India,SA,true
+109,9/3/2021,true,Oscar Mike Lima X-ray Alfa Tango Whiskey Sierra Delta Charlie Hotel Bravo Foxtrot,AS,true
+110,11/12/2021,true,Tango Kilo Oscar November Alfa Foxtrot Charlie Bravo Hotel Echo India Lima Victor Uniform,SA,true
+111,12/30/2021,true,Oscar Charlie Whiskey November Lima X-ray Sierra Hotel Delta Yankee Papa Alfa Mike Bravo Kilo Echo Foxtrot,NA,true
+112,11/26/2021,false,Charlie Sierra Golf Bravo Uniform Victor Zulu Romeo Delta India Foxtrot Mike Hotel Papa Quebec Tango Kilo X-ray Alfa Yankee,NA,false
+113,11/3/2021,true,India Golf Uniform Tango Zulu Papa Charlie Mike Delta Oscar Whiskey Juliett,NA,true
+114,12/4/2021,true,Uniform Hotel Golf Romeo Foxtrot Lima Kilo Zulu Juliett Echo Victor Oscar Delta Whiskey India Mike X-ray,AS,false
+115,10/5/2021,true,Zulu Sierra Yankee X-ray Uniform Foxtrot Victor November Kilo Oscar Delta Charlie Papa Romeo India Whiskey Juliett Quebec Bravo Mike,NA,true
+116,8/30/2021,false,Mike Golf Delta Yankee Uniform Victor Echo Romeo Lima Whiskey Juliett Alfa November Foxtrot Charlie Kilo Hotel Tango,EU,false
+117,12/10/2021,true,Sierra November Echo Uniform Papa Delta X-ray Juliett Foxtrot Golf Zulu Bravo Victor Tango Whiskey Charlie India Alfa Lima Romeo,SA,false
+118,11/17/2021,true,Sierra Hotel India Delta Victor Mike Lima Tango Bravo Charlie Whiskey Yankee Golf Oscar Foxtrot Alfa,OC,true
+119,7/4/2021,false,Mike Yankee Uniform Lima Victor Sierra Tango Papa Kilo Quebec,AS,true
+120,10/20/2021,false,Hotel Lima Charlie Romeo Yankee Foxtrot Alfa Papa Tango Delta Uniform Oscar India,NA,false
+121,8/24/2021,false,Tango Alfa Oscar Mike Whiskey Juliett Charlie Delta Papa Kilo Victor Golf November Lima Romeo X-ray Quebec Sierra Bravo,EU,false
+122,10/11/2021,true,Golf Sierra X-ray Charlie Romeo Mike Echo Victor November Kilo India Lima,NA,true
+123,9/16/2021,false,India Sierra Lima November Kilo Papa Whiskey Golf Yankee Uniform Bravo Quebec X-ray Oscar Alfa Juliett Romeo Tango Hotel Zulu,EU,true
+124,9/23/2021,false,Delta Charlie November Golf Yankee Kilo Hotel India Alfa Oscar,NA,true
+125,8/9/2021,false,Uniform Romeo Lima Foxtrot Delta Bravo Victor Sierra Echo Mike Hotel Juliett,AF,false
+126,8/3/2021,true,Oscar Papa Uniform Golf Charlie India Victor X-ray Zulu Lima Echo Juliett Romeo,SA,true
+127,7/3/2021,true,Mike Golf Tango Yankee Sierra Oscar Zulu Whiskey India Papa Juliett November Uniform,AF,false
+128,7/10/2021,true,Victor Papa Hotel Golf Mike Yankee Lima India Uniform Kilo Sierra,NA,true
+129,11/29/2021,false,Bravo November X-ray Mike Charlie Oscar Yankee Alfa Hotel Juliett Victor Sierra,OC,true
+130,9/19/2021,true,Papa India Oscar Zulu Sierra Whiskey Yankee Mike Tango November Hotel Quebec Echo Victor Charlie Golf,NA,false
+131,11/23/2021,false,Sierra Golf Tango Bravo Romeo X-ray Delta Mike Yankee Kilo Zulu Lima Echo Hotel India,AF,true
+132,9/5/2021,false,Delta Juliett Zulu Alfa Uniform Romeo Yankee X-ray Lima Sierra Echo Papa Kilo Whiskey India,SA,true
+133,7/31/2021,false,Romeo Mike Quebec Zulu Golf Victor Oscar Delta Whiskey Yankee Lima Sierra X-ray India Juliett Foxtrot Echo Uniform Bravo,OC,false
+134,12/29/2021,true,Lima Foxtrot Bravo Golf Romeo Whiskey Charlie Zulu Victor Kilo Echo Papa Quebec India Delta,AS,false
+135,12/20/2021,true,X-ray Papa Delta Romeo Alfa Zulu Charlie Foxtrot Uniform Lima Kilo Juliett November Victor Whiskey Echo Sierra,AS,false
+136,12/22/2021,false,Echo Foxtrot Alfa Uniform Yankee Lima Delta Oscar Victor Sierra Mike Tango India Hotel Quebec Juliett,NA,true
+137,7/22/2021,true,Zulu Papa Romeo Yankee Quebec Hotel India Alfa Oscar Whiskey Victor Sierra Lima November Charlie Tango Golf,NA,true
+138,12/29/2021,true,Hotel Quebec X-ray Lima India Zulu Delta Foxtrot Alfa Tango Juliett Uniform Victor Romeo Echo Oscar,AS,false
+139,9/15/2021,true,Uniform Kilo Yankee Oscar X-ray Quebec Delta Golf Charlie Juliett Lima India Echo November Mike,AF,true
+140,8/22/2021,false,Charlie Bravo Whiskey Mike Sierra Alfa Delta Lima Romeo Golf Zulu Kilo India Victor X-ray Hotel Echo Quebec,SA,true
+141,10/27/2021,true,Hotel Victor Charlie Whiskey Echo Quebec Juliett Mike Zulu X-ray Foxtrot Kilo November Bravo Tango,OC,true
+142,11/19/2021,false,Juliett Romeo Quebec Uniform November Whiskey Yankee Delta Bravo Zulu,NA,false
+143,7/8/2021,true,Victor Whiskey Golf Quebec India Mike Sierra Kilo Oscar Yankee Foxtrot November X-ray Lima Bravo Charlie Uniform Alfa,AS,false
+144,11/20/2021,false,Romeo Kilo Victor Quebec Charlie Whiskey Tango Bravo Zulu Oscar Papa November Uniform X-ray Foxtrot,NA,false
+145,10/8/2021,true,Golf X-ray Bravo Victor November Romeo Whiskey Delta Echo Charlie India,EU,true
+146,9/8/2021,true,Quebec Delta Charlie Kilo Uniform Papa November Bravo India Lima Zulu Sierra Whiskey,OC,true
+147,7/2/2021,false,Charlie Alfa Juliett Mike Whiskey Sierra Foxtrot Kilo Hotel November Oscar Victor Romeo Uniform Echo Zulu Quebec India Yankee,NA,false
+148,8/24/2021,false,Echo Oscar Bravo Mike Alfa Delta Quebec Papa Zulu India Victor Golf,EU,true
+149,10/29/2021,false,X-ray Lima Uniform Golf Zulu Mike Hotel Quebec Oscar Romeo Whiskey Charlie,NA,false
+150,10/23/2021,true,Zulu Golf Uniform Papa X-ray Tango Kilo Lima Whiskey Juliett Echo Delta Sierra Foxtrot India Mike Quebec Charlie,NA,false
+151,11/28/2021,false,Hotel Delta Kilo Golf Echo Bravo Romeo Juliett Sierra Mike Victor Zulu Alfa,AS,true
+152,10/6/2021,false,India Victor X-ray Romeo Yankee Quebec Kilo Whiskey Oscar Bravo Zulu Uniform Juliett Papa Hotel Foxtrot,NA,false
+153,12/30/2021,true,Juliett Zulu India Mike November Tango Bravo Romeo Charlie Lima Echo Yankee Oscar Uniform Whiskey Sierra Alfa Delta Foxtrot Papa,AS,false
+154,11/28/2021,false,Alfa Victor November Bravo Tango Kilo Mike India Charlie Whiskey Zulu X-ray Delta Yankee Oscar Romeo Uniform,NA,false
+155,11/10/2021,true,Kilo Golf Hotel Delta Echo Tango November Charlie Lima India Romeo Oscar Uniform X-ray Foxtrot,AS,false
+156,11/12/2021,true,Oscar Kilo Golf X-ray Papa Delta Sierra Whiskey Victor Echo Uniform Quebec Foxtrot,AS,false
+157,10/17/2021,true,India Zulu Tango X-ray Bravo Alfa Oscar Yankee Golf Kilo Mike Whiskey Uniform Foxtrot Victor,SA,true
+158,8/27/2021,true,Charlie Papa Mike Lima Golf Hotel Romeo Victor Yankee Bravo Foxtrot Kilo Zulu Alfa Delta November India Juliett,AS,true
+159,11/29/2021,true,November Juliett X-ray Lima Foxtrot India Charlie Sierra Zulu Alfa Tango Mike Hotel Uniform Echo,OC,true
+160,9/5/2021,true,Lima India Mike Victor Oscar Kilo Charlie X-ray Delta Tango November,AS,false
+161,8/18/2021,true,Delta Golf Mike Romeo X-ray Whiskey Charlie Oscar Sierra Foxtrot Alfa India Papa Tango Quebec,AS,false
+162,12/27/2021,true,Whiskey India Uniform X-ray Oscar Romeo Mike Papa Sierra Kilo Charlie Foxtrot Alfa Tango Delta Zulu Echo Victor Golf,OC,false
+163,8/21/2021,true,Quebec Papa Sierra Foxtrot Golf India Whiskey Yankee Tango Mike Delta Romeo,AF,false
+164,9/24/2021,true,November Oscar Victor Hotel Bravo Delta Juliett Uniform Golf Zulu Charlie Quebec,EU,true
+165,7/3/2021,false,Kilo Hotel November Charlie Quebec Whiskey Sierra Victor Lima Oscar Foxtrot Tango Delta Uniform Bravo Mike,NA,true
+166,10/15/2021,false,Charlie Delta Papa Foxtrot Tango Sierra Zulu Lima Whiskey Echo,OC,true
+167,11/1/2021,true,Alfa X-ray Charlie Lima Romeo Tango Foxtrot Echo Victor Kilo Bravo Hotel India Zulu Oscar,AS,false
+168,11/19/2021,true,Whiskey Alfa Yankee Charlie Lima Foxtrot Juliett Mike Tango Hotel Oscar Kilo Bravo November Victor,AS,false
+169,8/12/2021,false,India Uniform Papa Golf X-ray Yankee Echo Alfa Charlie Kilo Delta Victor Zulu Whiskey Quebec Foxtrot,NA,true
+170,12/25/2021,true,Victor Yankee Uniform India Mike Foxtrot X-ray Charlie Echo Delta,SA,true
+171,8/14/2021,true,Uniform Zulu Oscar Mike Bravo Victor India Quebec Foxtrot Alfa Romeo Kilo Delta Charlie Yankee Papa Echo Tango,NA,false
+172,7/11/2021,false,Victor Mike Golf Charlie Kilo Zulu X-ray Uniform Alfa Yankee Papa,NA,true
+173,10/20/2021,false,Romeo Mike Golf X-ray Sierra Juliett India Foxtrot Zulu Delta Echo Whiskey Charlie Tango Bravo Lima Hotel Uniform Kilo Victor,AF,true
+174,8/7/2021,false,Lima Foxtrot Bravo Papa Quebec Oscar Hotel Sierra Yankee November Kilo Delta Juliett X-ray Echo Alfa Charlie,EU,true
+175,10/20/2021,false,Papa Victor Tango Juliett Golf Alfa November Quebec Charlie Hotel Romeo Lima India Oscar Zulu Mike Echo Whiskey,OC,true
+176,9/27/2021,false,X-ray Romeo Kilo Foxtrot Zulu Yankee Echo Bravo Hotel Oscar Sierra Juliett Delta Uniform Victor Golf Charlie,SA,false
+177,9/2/2021,true,Zulu Quebec Romeo November India Bravo Foxtrot Tango Alfa Oscar,NA,false
+178,8/8/2021,true,Quebec November Uniform Charlie Foxtrot Mike Whiskey Echo Alfa India Sierra Golf Victor Delta,NA,false
+179,9/26/2021,true,Whiskey Bravo Foxtrot Uniform Juliett Delta Yankee November Quebec Mike Victor Papa Golf X-ray Alfa,SA,true
+180,11/9/2021,false,Oscar Victor Lima Whiskey Tango Yankee Romeo Charlie India Uniform Golf Bravo Zulu Delta Foxtrot Papa Sierra,AS,true
+181,11/21/2021,true,Papa Whiskey Foxtrot India Kilo Hotel Lima X-ray Quebec Delta Oscar Bravo Sierra Charlie Tango Golf Juliett,EU,false
+182,10/29/2021,false,Charlie Echo Hotel Alfa Quebec Delta November Lima Uniform India Juliett Mike Bravo Romeo Whiskey Papa X-ray,EU,false
+183,8/5/2021,true,Delta Alfa Yankee Echo Tango Quebec Victor Uniform Bravo Romeo Charlie Papa Kilo India Sierra X-ray November Juliett Golf,AF,true
+184,11/25/2021,false,Alfa Lima Tango Uniform Juliett Zulu Mike Whiskey Delta Hotel Golf,NA,false
+185,11/2/2021,true,Lima Delta Yankee November Juliett Tango Charlie Bravo Kilo India Whiskey Alfa Echo Zulu Mike Quebec Golf,NA,true
+186,12/19/2021,false,X-ray Juliett Papa Golf Yankee Charlie Mike November Oscar Foxtrot Uniform Lima Victor,NA,true
+187,9/7/2021,false,Charlie Kilo Tango Zulu Bravo Lima Papa Echo Alfa Oscar Romeo Whiskey Golf Mike Sierra Yankee Hotel Victor Uniform,EU,true
+188,9/3/2021,true,November Oscar Zulu Lima India Yankee Hotel Whiskey Bravo Echo X-ray Victor Charlie Tango Quebec Foxtrot Uniform,NA,true
+189,9/14/2021,false,Zulu Victor November Golf Whiskey Delta Alfa X-ray Sierra Lima Quebec,NA,false
+190,9/14/2021,true,Kilo Sierra Yankee Whiskey Alfa Zulu Delta India Oscar Echo Golf Charlie X-ray Romeo Tango,AS,true
+191,9/30/2021,true,Oscar Zulu Kilo Echo Golf Alfa Romeo Delta Bravo November Papa Charlie Uniform X-ray Juliett Lima Quebec Yankee India Tango,NA,true
+192,10/19/2021,true,Oscar Kilo Charlie Victor Bravo Tango Delta Uniform Foxtrot Echo,SA,true
+193,12/26/2021,false,Whiskey Alfa Bravo Echo Quebec Lima Sierra Foxtrot November Delta Golf Yankee Tango Romeo Kilo Hotel,NA,false
+194,11/9/2021,true,Juliett Echo November Lima Bravo Foxtrot Kilo Papa Delta Zulu Uniform Whiskey Mike Romeo,AS,true
+195,9/26/2021,true,Delta India Quebec Mike Charlie Zulu Victor Alfa Bravo Golf,AS,true
+196,8/14/2021,true,Delta Foxtrot Juliett Golf Victor Tango Kilo Papa Quebec India Uniform X-ray Charlie Romeo Yankee Bravo Lima Echo Whiskey Sierra,NA,true
+197,7/27/2021,true,Kilo Sierra Mike Zulu Bravo X-ray Papa Hotel Juliett Foxtrot Uniform Golf Lima,NA,false
+198,12/20/2021,false,Golf Zulu Yankee Tango Foxtrot Hotel Juliett Echo Charlie Quebec Mike X-ray Kilo,OC,false
+199,10/27/2021,false,Echo X-ray Foxtrot Alfa Mike Yankee Victor Juliett Kilo Uniform,NA,true
+200,11/28/2021,true,Hotel India Mike Uniform Tango Papa Yankee X-ray Charlie Quebec Zulu Foxtrot Romeo Kilo Golf Delta Sierra November Oscar Echo,NA,true
+201,7/26/2021,false,Hotel Delta Romeo Tango Lima Uniform Sierra Victor Charlie Kilo November,AF,true
+202,8/2/2021,false,India Oscar Hotel November Juliett Alfa X-ray Tango Mike Echo Papa,AS,false
+203,12/29/2021,true,Sierra Delta Charlie Zulu Alfa Golf Foxtrot Mike Bravo X-ray Yankee Lima Juliett,SA,true
+204,12/27/2021,true,India Oscar Delta Zulu Victor Golf Foxtrot Yankee Romeo Sierra Mike Lima Charlie X-ray,NA,true
+205,8/16/2021,true,Mike Bravo Uniform Alfa Tango November Oscar Romeo Whiskey Golf Charlie Hotel Juliett,NA,true
+206,11/15/2021,true,Sierra November Oscar Charlie Romeo Uniform Yankee Golf X-ray Bravo Zulu Papa Tango Juliett Kilo Victor Foxtrot,NA,true
+207,7/22/2021,true,Lima Delta Golf Romeo Foxtrot Echo X-ray Kilo November Oscar Papa India Alfa Zulu,NA,false
+208,12/15/2021,true,Delta Oscar India Kilo Quebec November Zulu Hotel Charlie Bravo Whiskey X-ray Yankee,OC,true
+209,11/20/2021,false,Oscar Sierra Papa Lima Zulu Tango Alfa November Whiskey Foxtrot Charlie Quebec Golf,AS,true
+210,12/30/2021,false,Juliett Echo Foxtrot Uniform Delta X-ray Papa Bravo Kilo Golf Tango Quebec,NA,true
+211,11/16/2021,false,Zulu Bravo Echo Delta Quebec November Papa Charlie Tango India Alfa Lima Yankee Romeo Juliett Sierra Golf,SA,false
+212,7/28/2021,false,Delta Mike Quebec Yankee Romeo Alfa Victor Tango Kilo Oscar Foxtrot Uniform India,AS,false
+213,8/6/2021,false,Delta Golf Sierra Foxtrot Mike Quebec Uniform Oscar Bravo Juliett Yankee Papa X-ray Kilo Echo Zulu Tango Whiskey Victor,EU,true
+214,10/16/2021,true,November Sierra Lima Alfa Kilo Oscar Bravo Victor X-ray Golf Yankee Tango Whiskey India Papa Echo Mike,SA,true
+215,8/7/2021,true,November Hotel Yankee Alfa Sierra Whiskey Tango Oscar Romeo Quebec Mike Charlie Kilo Papa Juliett Bravo X-ray Golf,OC,false
+216,9/8/2021,true,Delta Echo Foxtrot Juliett Uniform Hotel Romeo Tango Yankee Alfa Victor X-ray Lima Bravo India Golf Whiskey Kilo Mike Oscar,OC,true
+217,10/27/2021,false,Foxtrot Romeo Delta Mike November X-ray India Juliett Yankee Victor Uniform Papa Lima Quebec Sierra Kilo,NA,true
+218,10/16/2021,false,Alfa November Juliett Victor Oscar Sierra Delta Yankee Whiskey Kilo Papa Echo X-ray Zulu India Hotel,SA,true
+219,12/9/2021,true,Zulu Quebec Hotel Bravo Uniform Romeo Foxtrot Whiskey Lima Oscar Golf,NA,true
+220,12/25/2021,false,Victor Mike Kilo Yankee Charlie Sierra Uniform Foxtrot Oscar X-ray Hotel Papa,AF,false
+221,10/1/2021,true,Juliett Uniform Hotel Alfa Mike November Oscar Golf India Romeo Sierra Kilo Yankee Papa X-ray Victor Bravo Charlie Echo Zulu,OC,false
+222,10/15/2021,true,Juliett Golf Mike Quebec Delta Foxtrot Oscar India Kilo Sierra Whiskey Alfa Uniform,SA,false
+223,8/26/2021,true,Quebec Charlie Juliett Lima Victor Sierra Bravo Uniform Kilo Romeo Zulu,OC,true
+224,7/28/2021,true,Zulu Tango X-ray Bravo Mike Quebec Echo Sierra Uniform Delta Lima Juliett Hotel,EU,false
+225,9/17/2021,false,Golf Romeo Quebec Echo Sierra Hotel Yankee Mike X-ray Foxtrot Charlie Whiskey Zulu,SA,true
+226,10/7/2021,true,Juliett Papa X-ray Charlie India Foxtrot Delta Mike Whiskey Romeo Sierra Hotel Kilo Alfa,SA,false
+227,8/29/2021,false,Juliett Charlie Foxtrot Kilo Whiskey Tango Yankee X-ray Lima November Echo Quebec Romeo Hotel Uniform Zulu Oscar Sierra,EU,false
+228,12/25/2021,false,Yankee Sierra Bravo Mike Hotel Kilo Alfa Whiskey Foxtrot Lima,AF,false
+229,7/8/2021,true,Yankee Foxtrot Lima Uniform India Hotel Juliett X-ray Papa Kilo November Delta Whiskey Echo Alfa Romeo,NA,false
+230,7/18/2021,true,Victor Romeo Hotel Yankee Alfa Kilo Uniform Sierra India Foxtrot,NA,false
+231,12/7/2021,false,Quebec Delta Kilo Sierra India Uniform Foxtrot Mike Whiskey Victor Lima,SA,true
+232,9/29/2021,false,Hotel Whiskey India Alfa Delta Golf Mike Yankee Kilo Uniform Sierra X-ray Quebec Bravo Echo Charlie Lima,NA,false
+233,12/14/2021,true,Zulu Foxtrot Alfa Romeo X-ray Whiskey Bravo Oscar Tango Victor Juliett,OC,false
+234,9/2/2021,true,Golf Lima Sierra Yankee Victor November Oscar Uniform Bravo Hotel Tango Juliett Charlie Mike Zulu Foxtrot Alfa Papa Quebec,OC,true
+235,8/29/2021,true,Quebec Juliett Bravo Golf Uniform November Whiskey Papa Charlie Oscar Lima Yankee,OC,false
+236,12/7/2021,true,Delta Oscar Romeo Uniform Lima India Quebec Echo November Kilo Juliett,NA,false
+237,7/2/2021,true,India Juliett Bravo Yankee Kilo Romeo Mike Papa X-ray Golf Foxtrot Delta Alfa Lima,OC,true
+238,10/18/2021,true,Kilo Bravo Zulu Oscar Echo November Delta Tango Quebec Yankee Whiskey Romeo Charlie India Foxtrot Mike Victor Papa X-ray,AS,true
+239,11/21/2021,true,November Whiskey Sierra Kilo Mike Golf Foxtrot Romeo Juliett Hotel Victor Alfa Papa Zulu Yankee India Charlie Bravo,AS,false
+240,8/15/2021,true,Hotel X-ray Zulu India Echo Juliett Golf Delta Whiskey Alfa Victor,OC,false
+241,7/4/2021,true,Sierra Echo Alfa Lima Golf Tango Zulu Hotel Uniform Mike,AS,true
+242,8/5/2021,true,X-ray Whiskey Alfa Papa Golf Zulu Kilo Uniform Tango November Lima Romeo Foxtrot Victor Mike Charlie Yankee,NA,false
+243,8/17/2021,true,Quebec Oscar Mike X-ray Juliett Alfa Golf Delta Kilo Tango Victor Uniform Whiskey Romeo Hotel,AF,false
+244,8/30/2021,true,India Sierra Mike Lima Uniform Hotel November Juliett Charlie Bravo,AF,true
+245,10/7/2021,false,Victor Hotel Alfa Sierra India Bravo Quebec Romeo Lima Kilo November Oscar Echo Uniform X-ray Whiskey Papa,AS,true
+246,7/7/2021,true,Bravo Mike Quebec Foxtrot Kilo X-ray Echo Tango Charlie Victor Uniform Delta Romeo Sierra India Zulu,AS,false
+247,8/29/2021,false,Zulu Tango Romeo Whiskey Alfa Papa Bravo Quebec November Foxtrot Lima Golf Mike X-ray India Uniform Victor Delta,EU,true
+248,7/11/2021,false,Tango Romeo Uniform Whiskey Victor Golf Zulu Foxtrot Kilo Bravo Charlie Sierra Delta Oscar X-ray November Papa Mike,AF,false
+249,11/16/2021,true,Romeo Delta Lima Uniform Zulu November Kilo Quebec Alfa X-ray Golf Papa,EU,true
+250,8/5/2021,true,Zulu Bravo Victor Yankee November Juliett Alfa Romeo Hotel Papa Tango Golf Echo Oscar Charlie,OC,true
+251,11/20/2021,true,Tango India X-ray Foxtrot Papa November Sierra Uniform Charlie Delta Bravo Yankee Golf Mike Zulu,AF,true
+252,9/15/2021,true,Tango Mike Golf X-ray Sierra Alfa Echo Kilo Romeo November Hotel Zulu Charlie Whiskey Foxtrot Yankee India Victor,AS,false
+253,7/18/2021,true,Golf Zulu Victor Echo Kilo Papa India Lima Hotel Mike Quebec Tango Alfa Yankee,NA,false
+254,9/15/2021,false,Mike November Juliett Lima X-ray Victor Sierra Oscar Quebec Zulu Uniform Yankee Romeo Whiskey Papa Hotel Alfa Echo Foxtrot Bravo,SA,false
+255,9/12/2021,false,Echo Juliett Kilo Charlie Uniform X-ray Alfa Bravo November Papa Whiskey Yankee Victor Oscar Romeo Delta,NA,false
+256,12/14/2021,false,November Uniform Zulu Oscar Foxtrot Charlie India Victor Bravo X-ray Delta Lima Romeo Mike Kilo Echo Golf Sierra Juliett Whiskey,EU,true
+257,10/13/2021,false,Uniform Foxtrot X-ray November Kilo Mike Bravo Quebec Sierra Yankee Lima Victor Alfa Oscar Zulu Whiskey Hotel Echo,AF,false
+258,10/2/2021,false,November Foxtrot Bravo Delta Victor Kilo Alfa India Mike Whiskey Zulu Charlie Quebec Tango Uniform Sierra X-ray Juliett,NA,false
+259,9/7/2021,true,India Romeo Delta Charlie Tango Zulu Mike Hotel Oscar Yankee Victor Echo Kilo X-ray Foxtrot,AS,true
+260,9/10/2021,false,November Tango Victor Romeo X-ray Foxtrot Hotel Papa Quebec Bravo Kilo India Oscar Lima Alfa Charlie Echo,EU,true
+261,7/4/2021,true,Kilo Mike Victor Whiskey Romeo Charlie India Alfa Hotel Juliett Uniform Quebec Oscar,NA,false
+262,7/12/2021,false,Mike Lima Romeo Golf Victor Bravo Delta Echo Alfa Juliett November Papa,NA,true
+263,8/29/2021,true,Golf X-ray Sierra Quebec Victor Mike Whiskey Alfa Charlie Tango India Hotel Uniform November Delta Zulu Foxtrot Romeo,AF,false
+264,10/19/2021,true,Whiskey November Charlie Romeo Golf Papa X-ray Foxtrot Tango Hotel Yankee,SA,true
+265,12/22/2021,true,Zulu Tango Uniform Foxtrot Echo Juliett Yankee Quebec Alfa Golf Sierra,AS,true
+266,9/22/2021,false,Golf X-ray Alfa Sierra Whiskey Delta India Foxtrot Quebec Tango Yankee November Lima Papa Echo Charlie Uniform Bravo,AF,false
+267,11/14/2021,false,Uniform Romeo Mike Victor Sierra India Lima Bravo Golf Yankee Delta Charlie Oscar Juliett Tango,OC,false
+268,8/26/2021,false,Alfa Hotel Charlie Juliett Foxtrot November Yankee X-ray Bravo Quebec Tango Delta,NA,false
+269,8/14/2021,true,Sierra Echo Yankee Hotel Alfa Zulu November Mike Golf Kilo Charlie Papa Tango,OC,false
+270,10/1/2021,false,Echo Juliett Golf Uniform Victor Lima Oscar Yankee Mike Romeo Papa Foxtrot Sierra,EU,false
+271,9/25/2021,false,Uniform Yankee Delta Victor Golf Lima November Whiskey Bravo Hotel Alfa Romeo Quebec X-ray Echo Oscar Charlie Sierra Mike Kilo,NA,true
+272,9/25/2021,false,Zulu Papa Charlie Whiskey Kilo Yankee Sierra November Hotel Mike Tango Oscar Uniform,AS,false
+273,8/21/2021,true,Quebec Romeo Whiskey Bravo Alfa Delta Victor Zulu Yankee Papa Echo Lima Oscar India,AS,true
+274,8/29/2021,false,Romeo Yankee Sierra Lima Golf Quebec Zulu Hotel November Uniform Bravo,NA,false
+275,11/4/2021,true,India Victor Oscar Mike November Golf Papa X-ray Yankee Echo Foxtrot Bravo Lima Juliett Tango,OC,false
+276,12/18/2021,true,Echo Foxtrot Quebec Bravo Hotel Tango Alfa Charlie Uniform Golf Kilo November Victor Sierra Papa X-ray Whiskey Mike Romeo,OC,true
+277,10/27/2021,false,Golf Delta Zulu Mike Kilo X-ray Romeo Oscar India November Victor Quebec Yankee,AS,false
+278,9/25/2021,true,Foxtrot Charlie India Whiskey Alfa Papa Yankee Golf Zulu Juliett Quebec X-ray Uniform Lima Kilo,AF,false
+279,9/12/2021,false,Quebec India Sierra Lima Mike X-ray Kilo Alfa Bravo Oscar,AS,false
+280,10/30/2021,true,Foxtrot Uniform Sierra Alfa November Delta Kilo Romeo Juliett Quebec India,NA,true
+281,7/30/2021,true,Uniform Tango Alfa Golf Papa Delta X-ray Quebec November Whiskey Kilo Echo Charlie Zulu Oscar Foxtrot Victor Bravo,AF,true
+282,10/20/2021,true,Uniform Mike Hotel Zulu Golf Alfa Kilo India Oscar Romeo Charlie Whiskey Yankee Tango Echo Victor Foxtrot November Sierra Juliett,NA,false
+283,11/30/2021,true,Yankee Zulu Mike Kilo Whiskey Lima X-ray Romeo Tango India,NA,false
+284,9/21/2021,true,Hotel Uniform Golf Kilo November Quebec India Lima Romeo Victor Mike Tango Alfa Juliett Charlie Foxtrot Zulu Oscar X-ray Papa,NA,true
+285,7/24/2021,true,India Uniform Quebec Juliett Foxtrot Alfa Lima Oscar Delta Echo Whiskey Mike,EU,true
+286,8/15/2021,true,Zulu India Mike Tango Hotel Romeo Charlie Whiskey Yankee Alfa Uniform X-ray Delta Juliett Oscar Echo Papa Quebec,EU,true
+287,12/29/2021,false,Yankee India Tango Foxtrot Whiskey Golf Zulu Papa Delta Charlie,NA,false
+288,8/6/2021,false,Zulu X-ray Oscar Kilo Quebec Victor Lima Delta Mike Tango Papa Romeo Yankee Golf Charlie November Hotel Alfa,SA,false
+289,9/25/2021,false,Victor Uniform Yankee Bravo India Tango Whiskey Alfa X-ray Lima Kilo Charlie Juliett Romeo Echo Foxtrot Sierra Quebec November,AS,true
+290,9/18/2021,false,Hotel Uniform India November Victor Lima Yankee Quebec Zulu Whiskey Papa Alfa Bravo X-ray,EU,false
+291,7/19/2021,false,Quebec Romeo Golf Kilo Alfa Whiskey Juliett Tango Zulu Mike November Yankee Papa,EU,true
+292,12/19/2021,false,Victor Juliett Charlie Alfa Golf Sierra Foxtrot Uniform Echo Kilo Whiskey X-ray,NA,false
+293,12/23/2021,true,Quebec Zulu Papa Sierra Uniform Golf Echo Lima Tango Charlie Romeo Alfa X-ray November Yankee Victor Bravo,OC,true
+294,12/3/2021,false,Foxtrot Bravo Romeo Papa Golf Zulu November Juliett Yankee Quebec Tango Kilo Alfa Lima Charlie Sierra Oscar Delta Mike,NA,true
+295,11/18/2021,true,Juliett November Kilo Victor Zulu Papa Whiskey Foxtrot Echo Sierra Uniform Alfa Hotel Lima Golf Romeo Tango Quebec,OC,true
+296,10/5/2021,true,Bravo Yankee Quebec Whiskey Uniform Victor Delta Kilo Golf Foxtrot Lima Mike Oscar,NA,false
+297,8/18/2021,true,Sierra Alfa Whiskey X-ray Hotel Mike November Echo Papa Foxtrot Tango Charlie Romeo Quebec Uniform Lima Golf India Zulu Delta,AS,false
+298,10/2/2021,false,Echo X-ray Alfa Quebec Delta Oscar Mike Victor November Romeo Charlie Uniform Bravo Foxtrot Whiskey Juliett Golf Sierra,NA,true
+299,12/14/2021,true,Hotel India Zulu Delta Juliett Romeo Echo Alfa Uniform Victor Lima Papa Mike Whiskey Foxtrot Tango Golf X-ray Sierra,NA,false
+300,8/20/2021,false,Kilo Zulu Victor Lima Alfa Yankee Uniform India Echo X-ray Juliett Tango Romeo Whiskey Foxtrot November Sierra,SA,true
+301,9/21/2021,true,Foxtrot Quebec Zulu Papa India Victor Charlie Mike Romeo Golf Oscar Whiskey Tango Juliett Echo,EU,false
+302,7/23/2021,false,Whiskey Quebec Golf Alfa Hotel Echo Sierra Juliett X-ray India Tango Bravo Delta Mike Victor Zulu November,AF,false
+303,8/13/2021,false,Oscar Whiskey India Uniform Lima Foxtrot Papa Juliett Golf Delta Echo Victor,NA,true
+304,11/25/2021,false,Papa Victor Lima Charlie Yankee Sierra Tango Bravo Juliett India Uniform Mike Kilo Echo Whiskey Alfa Oscar,EU,true
+305,12/19/2021,true,Foxtrot Papa Hotel Oscar Mike Whiskey Sierra Charlie Victor Quebec India Yankee,EU,true
+306,11/18/2021,true,Juliett Oscar Lima Romeo Uniform Bravo Alfa Yankee Victor Whiskey,AS,true
+307,10/7/2021,false,Victor Quebec Kilo Papa Golf India X-ray Lima Uniform Tango,SA,false
+308,7/28/2021,true,Zulu Quebec India Echo Kilo Delta Mike Oscar Whiskey Uniform Alfa Sierra Foxtrot Tango Victor Yankee November Charlie Bravo X-ray,NA,false
+309,8/22/2021,true,Lima Echo Quebec Delta Alfa Tango Yankee Victor India Bravo,AS,false
+310,10/28/2021,true,Tango Juliett Alfa Zulu Oscar Victor Delta X-ray India Romeo Golf Hotel November,SA,false
+311,10/27/2021,true,Bravo November Charlie Zulu Whiskey Juliett Alfa Mike Quebec Oscar Echo Papa X-ray Kilo Uniform Victor,OC,true
+312,10/2/2021,true,Oscar Delta Yankee November India Charlie Tango Sierra Victor Romeo Golf Whiskey Papa Zulu Mike X-ray,OC,true
+313,10/22/2021,true,Juliett Kilo Whiskey Charlie Foxtrot Hotel Papa Bravo Mike India Tango,NA,true
+314,11/1/2021,false,Uniform Quebec Lima Zulu Sierra Charlie Oscar Juliett Mike Echo Alfa Golf X-ray,NA,false
+315,7/24/2021,false,Mike Bravo Charlie X-ray Lima Sierra Foxtrot Whiskey Juliett November Zulu Yankee Papa Alfa India Delta Oscar Uniform,AS,false
+316,9/3/2021,true,Bravo Mike Oscar Whiskey India November Tango Romeo Foxtrot Uniform Lima Zulu Charlie Hotel,AS,true
+317,11/4/2021,false,Alfa Whiskey Bravo Hotel Sierra November Romeo Uniform Quebec Golf Echo Kilo Delta Papa,NA,true
+318,10/24/2021,false,Sierra India Oscar Papa Kilo Zulu Yankee X-ray Alfa Tango Whiskey Hotel Bravo Victor Charlie Uniform,NA,false
+319,12/7/2021,true,Bravo X-ray Lima India Charlie Kilo Tango Juliett Papa Whiskey Sierra Alfa November Delta Foxtrot Uniform Yankee Oscar,AS,true
+320,7/12/2021,false,Oscar India Delta Lima X-ray Charlie Bravo Sierra Victor Foxtrot Papa Yankee Whiskey,NA,true
+321,8/7/2021,true,Oscar Whiskey Bravo Alfa Tango Kilo Victor Mike Lima Zulu Golf Romeo Papa Charlie,AS,true
+322,12/22/2021,true,Echo Whiskey Lima Tango Kilo India Sierra Mike Quebec Uniform Delta Charlie Oscar Romeo Papa Victor Alfa X-ray Bravo,AS,false
+323,8/3/2021,false,November Echo Bravo Kilo Tango Yankee Charlie Victor X-ray Juliett India Golf Delta Lima Foxtrot Romeo Mike Quebec Whiskey,NA,false
+324,11/25/2021,true,Whiskey Yankee Oscar X-ray Quebec Romeo Alfa Kilo Charlie Uniform Foxtrot Delta Golf Juliett Sierra Victor India,AF,false
+325,11/2/2021,false,Golf Bravo Alfa Tango Charlie Kilo Mike Romeo Yankee Delta,NA,true
+326,9/9/2021,true,Zulu Sierra Alfa Bravo November Yankee India Papa Oscar Delta Foxtrot Juliett Whiskey Victor Hotel Mike Tango Golf Kilo Romeo,AS,true
+327,9/21/2021,false,Tango Sierra Alfa Golf Mike Bravo Quebec Zulu X-ray Oscar,SA,false
+328,12/17/2021,false,Quebec Charlie Delta Foxtrot Lima Romeo Hotel Yankee X-ray Kilo Juliett Sierra November India Zulu Echo Uniform Tango,OC,false
+329,11/16/2021,false,Oscar India Kilo Bravo Golf Charlie November Tango Delta Papa Quebec,SA,true
+330,9/21/2021,false,Delta Whiskey Uniform Lima Bravo Echo Oscar Mike X-ray Romeo Yankee Papa Juliett India Kilo Victor Quebec Hotel Tango Zulu,NA,false
+331,10/16/2021,false,Tango Alfa Quebec Yankee Foxtrot Echo Oscar Bravo Golf Kilo Papa Victor Juliett Hotel,SA,true
+332,10/2/2021,false,Yankee Papa Juliett Uniform Mike Victor Hotel Echo Romeo Foxtrot Delta Lima Oscar November Kilo Charlie Alfa Tango Bravo Zulu,AF,true
+333,8/19/2021,true,X-ray Whiskey Alfa Foxtrot Charlie Golf Tango Bravo Echo Uniform Oscar Hotel Kilo Quebec,OC,false
+334,9/1/2021,true,Yankee Foxtrot Uniform Alfa Delta Echo Quebec India Victor Hotel X-ray Mike Romeo November Kilo Whiskey Golf,NA,false
+335,12/15/2021,false,Yankee Victor Bravo Papa Whiskey Alfa Tango Mike Juliett Quebec November,EU,true
+336,7/20/2021,false,Papa Alfa Uniform Victor Mike Yankee Hotel Golf Whiskey Sierra Bravo Charlie Delta X-ray November Echo Romeo,NA,true
+337,7/31/2021,false,Echo Quebec Alfa Tango Juliett Bravo Romeo Whiskey Yankee Sierra Lima Kilo,SA,true
+338,9/1/2021,true,Uniform Foxtrot Charlie Tango Bravo Mike Hotel Echo Juliett November Yankee Delta India X-ray Papa,EU,true
+339,9/12/2021,true,Juliett Romeo Delta Echo Whiskey November Lima Uniform Sierra Yankee Foxtrot Zulu,AF,false
+340,11/1/2021,true,Tango Whiskey India Mike Echo Kilo Bravo Juliett Foxtrot Delta Alfa Quebec,SA,false
+341,10/10/2021,false,Hotel X-ray Charlie Mike Delta Alfa November Lima Bravo Papa Romeo Sierra Victor Quebec Oscar Foxtrot,AF,false
+342,8/28/2021,true,Hotel Kilo Echo Delta Mike Alfa Zulu Victor Sierra Oscar Golf Tango,NA,false
+343,9/21/2021,false,Romeo Mike Hotel India Papa Delta Oscar Uniform Alfa Tango Juliett Kilo Lima Bravo Whiskey X-ray Victor Golf Zulu Charlie,OC,false
+344,12/12/2021,false,Hotel Quebec Charlie Delta Whiskey Uniform Mike Victor Bravo Lima Juliett India,SA,false
+345,7/8/2021,false,Papa India Bravo Sierra Charlie Romeo X-ray Whiskey Foxtrot Juliett Quebec Alfa Golf Uniform Hotel Mike Delta Zulu Echo,SA,true
+346,12/18/2021,false,November Bravo Papa Golf Tango Kilo Whiskey Uniform Hotel Sierra Victor Charlie Yankee,EU,false
+347,8/5/2021,true,Hotel Charlie Oscar Papa Uniform Golf Whiskey Yankee India Delta Bravo Victor X-ray Foxtrot Quebec November,NA,true
+348,7/7/2021,false,Foxtrot Oscar Lima Charlie Bravo Alfa Tango Kilo Papa Uniform Delta Romeo,AS,false
+349,9/22/2021,true,Charlie Foxtrot Sierra X-ray Hotel Delta Victor Juliett Kilo Lima Whiskey,OC,false
+350,7/7/2021,false,Charlie Tango Sierra Echo Kilo Oscar Golf Yankee Mike Uniform,AS,false
+351,12/25/2021,false,Juliett Golf X-ray Hotel India Echo Whiskey Sierra Papa Bravo Victor November,NA,true
+352,7/2/2021,false,Bravo Yankee Victor Uniform Romeo Lima November Quebec Juliett Mike Oscar Delta Hotel Echo Whiskey,NA,false
+353,11/12/2021,true,Golf Tango Alfa Romeo Sierra November Uniform Oscar X-ray Delta Victor Bravo Whiskey Hotel Quebec,NA,true
+354,7/30/2021,true,Bravo Romeo Delta November Foxtrot Mike Tango Yankee Alfa X-ray Quebec Whiskey Sierra Juliett,OC,true
+355,11/16/2021,true,Foxtrot Quebec Echo Romeo Bravo Tango Charlie Uniform X-ray Whiskey Yankee November Papa Mike,NA,true
+356,11/26/2021,true,November Whiskey Uniform Foxtrot X-ray Golf Sierra Victor Lima Oscar Juliett Tango Kilo Delta Romeo,AF,true
+357,11/12/2021,false,Mike Hotel Tango Alfa Yankee Quebec Romeo Oscar Kilo X-ray Victor Lima Echo,SA,false
+358,8/9/2021,false,Zulu Hotel Golf November Juliett Yankee Tango Mike Bravo Kilo Echo India Papa Romeo Quebec,NA,false
+359,10/27/2021,true,Oscar Hotel Papa Quebec Yankee Alfa Victor Mike Juliett Lima Whiskey Foxtrot,AS,true
+360,12/30/2021,true,X-ray Delta Victor Papa Echo Bravo Mike Uniform Hotel Alfa Foxtrot Romeo Yankee India November Oscar Lima Charlie Tango Kilo,AS,true
+361,12/23/2021,false,X-ray Yankee India Kilo Oscar Alfa Papa Echo Victor Quebec Charlie Juliett Lima Tango Delta Bravo November Whiskey Foxtrot,OC,false
+362,11/6/2021,false,Yankee Juliett Uniform Charlie Romeo Zulu Quebec Delta Echo India Golf Mike Papa Hotel November Oscar Bravo Lima,AS,false
+363,7/18/2021,true,Kilo Mike Foxtrot Victor Zulu X-ray Juliett Papa Uniform Hotel Sierra India,NA,false
+364,7/14/2021,true,Echo X-ray Foxtrot Quebec Juliett Oscar Whiskey Mike Tango Lima Bravo Romeo,AF,false
+365,12/15/2021,false,Hotel Golf Echo November Juliett Yankee Lima Delta Oscar Whiskey,AS,true
+366,7/6/2021,false,Foxtrot Victor Whiskey Quebec Tango Charlie Mike Oscar Delta Lima Alfa Bravo Papa November Uniform Sierra Echo Romeo Golf,SA,false
+367,12/7/2021,true,Romeo Delta Papa India Golf Quebec Victor Sierra Juliett November Tango Charlie Foxtrot Alfa,SA,true
+368,12/3/2021,false,Alfa Golf Yankee Quebec Zulu Tango Uniform November India Hotel Victor Lima Bravo Juliett Papa Sierra Mike Foxtrot,SA,true
+369,8/4/2021,true,Mike Juliett Kilo Alfa Echo Yankee Lima Charlie Hotel X-ray Quebec Zulu Victor,AF,true
+370,12/17/2021,true,Papa Sierra Foxtrot X-ray Uniform Lima Yankee Whiskey Bravo Juliett Golf Echo Kilo Hotel Romeo Mike Quebec,EU,false
+371,9/13/2021,true,Sierra Quebec India Delta Lima Alfa Victor X-ray Foxtrot Papa Oscar Charlie Yankee November Mike Hotel Echo Whiskey Kilo Bravo,NA,true
+372,10/13/2021,false,Charlie Oscar Uniform Mike Romeo Victor Hotel Delta Juliett X-ray Bravo Yankee,SA,false
+373,7/28/2021,true,Uniform Tango Alfa Romeo November Whiskey India Yankee Kilo Bravo Hotel Zulu Oscar Papa Golf Quebec Victor X-ray,NA,false
+374,12/15/2021,true,Sierra Oscar Juliett Zulu Lima Whiskey X-ray Uniform Alfa Golf Echo Charlie India Tango Bravo Foxtrot Delta Quebec Mike Victor,AF,true
+375,8/15/2021,true,Romeo Lima Papa Sierra Victor Juliett Charlie Uniform Whiskey India Hotel Tango,EU,true
+376,10/20/2021,false,Bravo Hotel November Victor Kilo India Delta Zulu Whiskey Foxtrot Golf Echo Oscar Charlie Papa Romeo Tango,NA,false
+377,8/2/2021,false,November Lima Bravo Hotel India Whiskey Zulu Mike Tango Uniform Delta Victor Sierra Alfa Quebec Papa,AS,true
+378,10/9/2021,true,Tango Echo Lima Papa Charlie Bravo Yankee Uniform Mike Oscar Juliett Sierra Golf Victor Whiskey X-ray Alfa India,NA,true
+379,10/9/2021,true,Uniform Quebec Victor Juliett Echo Charlie Oscar Kilo X-ray Tango Yankee,AF,false
+380,10/24/2021,false,Juliett Sierra Yankee Echo X-ray Alfa Victor Whiskey Zulu Lima Romeo,AS,true
+381,9/18/2021,false,Hotel Foxtrot Uniform Papa Romeo Juliett Golf November Whiskey Mike Oscar Charlie Bravo Quebec Echo,OC,false
+382,10/20/2021,true,Mike Echo Hotel Quebec Alfa Uniform India Whiskey Sierra Papa November Oscar Tango Golf Lima Kilo Romeo,NA,true
+383,10/9/2021,true,Bravo Tango Juliett Uniform Sierra Hotel Kilo Papa Lima Delta Alfa X-ray Mike Romeo Foxtrot Golf Whiskey Zulu Charlie Oscar,SA,false
+384,12/5/2021,false,Uniform Zulu Bravo Whiskey Hotel Sierra Quebec Papa Lima Alfa Romeo November Delta Juliett India Mike Echo,AS,true
+385,8/10/2021,true,Victor Lima Delta X-ray Echo Yankee Uniform Kilo Mike November Juliett Foxtrot Sierra Whiskey Alfa India Zulu Oscar Golf Papa,EU,false
+386,8/21/2021,true,Charlie Whiskey Yankee Romeo Mike X-ray Hotel Sierra Alfa Juliett Echo Golf Victor,SA,false
+387,10/9/2021,true,Bravo Whiskey Papa Lima Romeo India Zulu Mike November X-ray Victor Sierra Quebec Yankee,SA,true
+388,10/23/2021,true,Golf Foxtrot Alfa Delta Zulu Whiskey November Sierra Quebec X-ray India Lima Charlie Papa Echo,NA,false
+389,9/13/2021,true,Yankee Charlie Delta Tango Sierra November Kilo Uniform Hotel Whiskey Papa Lima India Golf Juliett Zulu Victor Romeo Mike,NA,true
+390,12/7/2021,false,Uniform Whiskey Quebec Kilo Echo Sierra Papa Victor Yankee Tango Romeo Oscar Delta Bravo,NA,false
+391,9/26/2021,true,X-ray Echo Oscar Alfa India Mike Papa Bravo Victor Kilo Golf,AS,true
+392,7/29/2021,true,Yankee Kilo Hotel Foxtrot Lima Uniform November Romeo Mike Victor Echo Papa Delta,SA,false
+393,8/24/2021,true,Papa November X-ray Lima Alfa Hotel Zulu Whiskey Uniform Golf Oscar Charlie Bravo India Mike Yankee Romeo Tango Sierra Victor,AF,true
+394,8/15/2021,false,Juliett Alfa Mike Tango Whiskey Delta Oscar Papa Yankee Charlie India Zulu X-ray Kilo Foxtrot Bravo,OC,false
+395,7/15/2021,true,Romeo Kilo Uniform Alfa Tango Mike Hotel X-ray Zulu Quebec Victor Lima Juliett,AS,false
+396,11/9/2021,true,Lima Papa Juliett Bravo Whiskey Charlie Alfa X-ray November Golf Zulu Sierra Echo Romeo Kilo Victor Hotel,NA,true
+397,9/22/2021,true,Lima Echo Foxtrot Oscar Charlie Quebec Golf Uniform Whiskey Kilo Delta Hotel,SA,true
+398,11/17/2021,false,X-ray Charlie Mike Alfa Delta Golf Juliett India Victor Bravo Hotel Kilo Oscar,AF,false
+399,12/30/2021,false,Tango India Quebec Delta Charlie X-ray Echo November Lima Uniform,SA,true
+400,10/20/2021,false,Oscar Delta Golf Alfa Bravo Uniform November Foxtrot X-ray Charlie Lima Quebec Echo India Whiskey Romeo Papa,OC,true
+401,10/25/2021,true,India Romeo Golf Alfa Oscar X-ray Yankee Tango Juliett Kilo Delta Charlie Zulu,AS,false
+402,11/6/2021,false,Bravo Yankee Lima Mike Tango Hotel Uniform India Alfa Charlie Victor Juliett Echo Whiskey Quebec Papa,NA,true
+403,9/17/2021,true,Charlie Quebec Echo Romeo Alfa India Oscar Tango Mike Sierra Foxtrot Juliett Yankee Victor Hotel Kilo Lima X-ray Golf Delta,AF,true
+404,11/10/2021,false,Papa Whiskey Zulu Juliett Oscar Kilo Yankee Echo Tango Lima Hotel Charlie Romeo Quebec Delta,NA,true
+405,7/20/2021,false,Papa Lima Golf Delta Whiskey Mike Yankee Hotel November Alfa Foxtrot Romeo X-ray Kilo,OC,true
+406,8/14/2021,false,Uniform Tango Echo X-ray Mike Charlie Foxtrot Quebec Romeo November Alfa Zulu Golf Kilo,NA,true
+407,12/14/2021,false,Kilo November Mike Delta Yankee Whiskey Bravo X-ray Romeo Foxtrot Juliett Zulu Golf Lima Tango Oscar Uniform Alfa Sierra,OC,true
+408,11/3/2021,false,Zulu November Quebec Whiskey India Juliett Foxtrot Uniform X-ray Delta Lima Yankee Mike Victor Bravo Alfa Golf Tango Oscar Hotel,NA,true
+409,7/2/2021,true,Oscar Foxtrot X-ray Victor Mike Sierra Uniform Echo November Papa,OC,true
+410,12/25/2021,true,November Oscar Delta Echo Romeo Alfa Bravo India Golf Zulu Charlie Uniform,NA,true
+411,9/23/2021,false,Quebec Tango Hotel Lima Kilo Foxtrot Uniform Whiskey Echo Zulu,NA,true
+412,8/4/2021,true,Kilo Oscar Victor Alfa India Bravo Hotel Tango Golf Papa Uniform Lima November Juliett Zulu Whiskey Delta Charlie,AS,false
+413,8/12/2021,false,November Victor Sierra X-ray Oscar Delta Uniform Bravo Mike Tango Papa,AF,false
+414,8/4/2021,false,Echo X-ray Oscar Romeo India Foxtrot November Mike Sierra Papa Whiskey Hotel Uniform Delta,AF,false
+415,12/8/2021,false,Yankee Romeo Oscar Victor Zulu Bravo Juliett November Quebec Alfa,AF,false
+416,8/8/2021,false,Kilo Romeo Victor Lima X-ray Hotel Whiskey India Charlie Quebec Juliett Papa Foxtrot Yankee Delta Echo Zulu Mike Uniform Golf,NA,true
+417,10/14/2021,false,Quebec Juliett Lima Kilo Delta Romeo Papa Foxtrot Hotel Alfa Golf Sierra Yankee November Zulu Oscar India Tango X-ray Mike,NA,true
+418,11/5/2021,false,Charlie Golf Foxtrot Quebec Alfa Romeo Papa Yankee Kilo Mike Victor,AF,false
+419,12/29/2021,true,Lima Zulu Golf Bravo Oscar Papa Sierra Romeo Delta November X-ray Echo Yankee Mike,AS,true
+420,9/2/2021,false,Uniform Whiskey Papa Juliett Mike Oscar Romeo X-ray Delta Yankee Lima Quebec Victor India Foxtrot Alfa,OC,false
+421,11/2/2021,true,Tango Alfa Delta Whiskey Foxtrot Uniform Mike Victor Yankee X-ray Golf Sierra,NA,false
+422,12/22/2021,false,Foxtrot Tango Victor Sierra Kilo Uniform Oscar Lima Alfa Mike Quebec X-ray November Golf Delta,NA,false
+423,12/3/2021,true,Uniform Alfa India Charlie Tango Mike Delta Kilo Zulu Echo Victor Lima,NA,true
+424,7/28/2021,false,Golf Juliett Alfa Quebec Yankee Echo Oscar Mike Bravo Tango Whiskey Foxtrot Sierra Charlie,SA,false
+425,10/3/2021,false,India Echo Mike Quebec Oscar Sierra Victor Lima Kilo Golf Juliett Romeo,OC,false
+426,7/28/2021,true,Echo Sierra Mike Romeo Juliett India Golf Alfa Victor Papa Oscar Foxtrot Yankee Kilo,NA,false
+427,10/10/2021,true,Uniform Lima Oscar Romeo Whiskey Victor Tango Yankee November Mike Echo X-ray Kilo Golf Alfa Zulu India,AF,false
+428,12/19/2021,true,X-ray Juliett Zulu Hotel Mike Yankee Lima Victor November Kilo Uniform Quebec Echo India,AF,true
+429,10/31/2021,true,November Alfa Delta Zulu Romeo Hotel Whiskey Foxtrot Juliett Mike Sierra,NA,false
+430,12/28/2021,false,Romeo Juliett Whiskey Tango Hotel X-ray India Golf Uniform Foxtrot,EU,false
+431,8/28/2021,false,November Yankee Kilo Zulu Lima Quebec X-ray Charlie Hotel Alfa Oscar Papa Sierra Victor Romeo Echo,EU,true
+432,8/20/2021,true,Kilo Whiskey Papa Juliett Oscar Victor Uniform Yankee Charlie India Lima Golf Echo November,EU,true
+433,8/2/2021,true,Lima November Hotel Quebec Delta India Foxtrot Victor Uniform Golf Whiskey Bravo Charlie,NA,true
+434,8/11/2021,true,Uniform Yankee Zulu Echo November Kilo X-ray Juliett Mike Alfa Charlie Papa Oscar India Foxtrot Sierra Romeo,NA,true
+435,9/3/2021,false,Mike Oscar Hotel Tango Bravo Lima Victor Foxtrot X-ray Kilo Alfa Echo Charlie Golf Romeo Juliett Quebec Sierra India,EU,false
+436,11/24/2021,true,Foxtrot Juliett Uniform Tango Whiskey Golf Romeo Quebec Yankee Echo November,SA,false
+437,11/4/2021,true,Delta Alfa Victor X-ray Foxtrot Zulu Sierra Hotel Kilo Papa Mike Romeo,NA,false
+438,11/6/2021,false,X-ray Papa Victor Delta Mike Quebec Zulu Yankee Foxtrot Uniform Juliett Bravo Romeo Echo Charlie Whiskey Tango Lima,AS,true
+439,8/18/2021,false,Charlie November Papa Sierra Juliett Whiskey Foxtrot Victor Yankee Lima Oscar Golf India Zulu Echo Kilo,NA,false
+440,10/8/2021,true,Kilo Papa Uniform Alfa Mike Yankee Lima Sierra Golf Oscar November Victor Charlie Whiskey Hotel Bravo Echo,NA,true
+441,9/3/2021,false,Charlie Echo Bravo Mike India Juliett Papa November Alfa Delta Kilo Foxtrot Victor Uniform Quebec Lima Yankee Hotel Oscar,SA,false
+442,12/22/2021,false,Oscar Romeo Tango Alfa Foxtrot Quebec Victor Bravo Sierra Kilo Charlie Golf,SA,false
+443,11/8/2021,true,Romeo Zulu Uniform Mike Echo Charlie Golf Foxtrot Victor Papa Juliett Hotel Delta Oscar Kilo Tango Sierra Alfa November Lima,NA,true
+444,12/22/2021,false,Bravo Alfa Juliett Lima Whiskey Quebec Zulu Charlie Golf Sierra November Papa,NA,false
+445,8/7/2021,false,Echo Kilo Yankee Delta Oscar Papa Sierra India Foxtrot Whiskey Zulu X-ray Lima Hotel Uniform,AS,false
+446,8/10/2021,true,Romeo Zulu Papa India Tango Golf Bravo Echo Sierra Mike Foxtrot Quebec Charlie Hotel Yankee X-ray November,SA,false
+447,9/14/2021,true,Kilo Papa Delta Oscar Charlie Romeo Sierra Quebec India Foxtrot Victor X-ray Yankee Lima Tango Uniform November Mike Zulu,OC,false
+448,10/31/2021,true,X-ray Bravo Sierra Oscar India Romeo Alfa Hotel Delta Zulu Golf Juliett Tango,EU,false
+449,12/19/2021,true,Mike Juliett Bravo Whiskey Lima Alfa Kilo Charlie Golf Foxtrot Victor,OC,true
+450,12/1/2021,false,India Charlie Tango Juliett Delta Victor Papa November Uniform Whiskey Alfa Lima Bravo Romeo Quebec Echo Foxtrot Hotel,AF,true
+451,7/24/2021,false,Romeo Charlie Bravo Zulu Victor Lima Mike X-ray Yankee Foxtrot Whiskey,SA,true
+452,12/21/2021,false,Lima Uniform Romeo Whiskey Yankee Delta X-ray Charlie Echo Zulu Victor Juliett Hotel Quebec Alfa Sierra Golf November Kilo Bravo,AF,true
+453,8/26/2021,false,Oscar Tango Juliett Romeo Golf Charlie Victor Yankee Zulu Alfa Hotel Lima Mike Echo,OC,true
+454,7/4/2021,true,Whiskey India Tango Kilo Zulu Charlie Victor Sierra Yankee Juliett Bravo Uniform Lima Golf Foxtrot,NA,true
+455,8/15/2021,false,Mike Zulu Echo Juliett November Victor Foxtrot Golf Alfa Romeo India Uniform Tango Charlie Bravo Papa X-ray,SA,false
+456,7/19/2021,true,Victor Delta Mike November Romeo Sierra Oscar Juliett Quebec Whiskey Kilo Yankee X-ray Golf Zulu,AS,false
+457,7/10/2021,false,Lima Bravo Papa November Kilo Tango Hotel Alfa Oscar Delta Charlie Victor Uniform Sierra Zulu Romeo,AS,true
+458,11/10/2021,false,Uniform Romeo Victor Papa Echo Foxtrot Bravo Delta X-ray Juliett Zulu Lima Oscar Whiskey Tango,NA,false
+459,10/2/2021,false,Alfa Quebec Oscar Yankee Juliett Echo Delta Uniform Romeo Papa Bravo Tango Whiskey X-ray Zulu India Lima Kilo,NA,false
+460,7/24/2021,true,Hotel Zulu Bravo Mike India Lima Kilo Yankee Delta Oscar,NA,false
+461,11/12/2021,false,Sierra Papa Uniform Oscar Whiskey Hotel Bravo X-ray Yankee India Kilo Lima Quebec Juliett Romeo Echo Golf,SA,false
+462,11/25/2021,false,Lima Bravo November Victor Charlie Tango Uniform India Whiskey Kilo Delta Alfa Quebec Echo Papa Foxtrot Hotel X-ray,NA,true
+463,12/7/2021,false,Mike Whiskey Foxtrot Victor Uniform Bravo Sierra November Echo Delta Oscar Zulu India Alfa Papa Kilo Golf Hotel Lima,AF,false
+464,10/6/2021,false,Romeo Yankee Juliett Foxtrot Tango Sierra Delta Echo Victor Charlie,NA,false
+465,12/14/2021,true,Alfa Sierra November Foxtrot Golf Oscar Bravo Delta Tango Zulu Quebec,NA,false
+466,12/17/2021,false,November Papa Yankee Juliett Charlie Victor Uniform Golf Quebec Sierra India,AS,false
+467,9/29/2021,false,Whiskey Golf Victor Sierra Kilo Uniform Alfa Foxtrot November Charlie Yankee X-ray Mike Tango Oscar,AF,false
+468,11/8/2021,false,Mike Hotel Bravo India Romeo X-ray Juliett Uniform Foxtrot Sierra Oscar November Yankee Echo Kilo,NA,true
+469,10/7/2021,false,X-ray Golf Alfa Oscar Tango Echo Lima Foxtrot Victor Hotel,AF,false
+470,8/14/2021,false,X-ray Oscar Delta Mike Alfa Golf Victor Juliett Uniform Lima Yankee,AS,true
+471,7/18/2021,false,Quebec November Papa Echo India Victor Kilo Golf Hotel Oscar Alfa Sierra Juliett Whiskey Lima Yankee Mike Tango Delta,SA,false
+472,9/5/2021,false,Foxtrot Alfa Lima India Echo Delta Whiskey Bravo Kilo Victor Mike Sierra Yankee Hotel,OC,true
+473,8/28/2021,true,Sierra Alfa Tango Mike Charlie Foxtrot Lima Echo Victor Oscar Kilo India Delta Golf,SA,false
+474,12/14/2021,false,Golf Whiskey Kilo Lima Oscar Zulu India Romeo Echo Juliett Victor X-ray Papa,AS,true
+475,12/30/2021,false,Hotel Quebec Kilo Whiskey Echo Tango Golf Alfa Delta Victor Sierra India November,OC,true
+476,11/22/2021,true,India Tango Victor November Sierra Bravo Mike Papa Juliett Kilo Delta Uniform Lima Quebec Oscar,OC,true
+477,9/11/2021,true,Whiskey Bravo Victor Romeo Papa Uniform November Sierra India Echo Juliett X-ray Kilo Golf Charlie Yankee Quebec Tango Mike,OC,false
+478,12/24/2021,false,Golf X-ray Quebec Delta Yankee Oscar India Zulu Sierra Juliett Uniform Tango Lima Papa Bravo November Kilo Charlie,EU,true
+479,10/7/2021,false,Lima Uniform Bravo Zulu Romeo India Echo Yankee Alfa November Delta Papa Victor Hotel,EU,true
+480,8/20/2021,false,Delta Alfa Papa X-ray Bravo Quebec Juliett Sierra Echo Zulu Yankee Charlie Tango Uniform Oscar,EU,false
+481,12/15/2021,true,Victor Foxtrot Mike Bravo Uniform Delta X-ray Sierra Oscar Echo Juliett Alfa Romeo Papa Zulu Lima Kilo,OC,false
+482,11/19/2021,false,Uniform Whiskey Kilo Bravo November Victor Delta Yankee Papa Alfa Foxtrot Lima Zulu Romeo Golf Echo,OC,true
+483,10/30/2021,false,Yankee Golf Echo Uniform Sierra Alfa India Bravo Kilo Charlie November Victor Lima Tango Zulu Delta Oscar Romeo Papa X-ray,AS,true
+484,8/1/2021,false,Kilo India Yankee Mike Hotel Papa Lima Sierra Zulu Delta Charlie Quebec Whiskey Foxtrot Golf Oscar,NA,true
+485,12/29/2021,false,Echo Uniform Juliett Lima Mike India X-ray Oscar Charlie Sierra Yankee Tango Quebec Golf Alfa Whiskey Bravo Foxtrot,AS,true
+486,11/23/2021,true,Yankee November Bravo India Sierra Victor Whiskey Foxtrot Oscar Juliett Charlie Lima Golf Kilo Papa Echo Romeo,NA,false
+487,12/9/2021,true,Romeo Mike November Oscar Kilo Tango Bravo Foxtrot India Juliett,EU,false
+488,7/15/2021,true,Quebec India Juliett Zulu Hotel Foxtrot Whiskey X-ray Alfa Yankee Kilo November Lima Uniform,NA,false
+489,7/25/2021,false,Oscar Zulu Foxtrot Victor Kilo Romeo November Charlie Lima X-ray,AS,false
+490,8/8/2021,false,Yankee Golf Echo Kilo Alfa Hotel Juliett Charlie Whiskey Foxtrot Zulu Tango,NA,false
+491,7/28/2021,true,Foxtrot Uniform Echo Charlie Mike India Papa November Oscar Kilo Juliett Zulu Whiskey,AS,false
+492,9/3/2021,false,Juliett Delta Sierra Mike November Whiskey Foxtrot Lima Papa India Uniform Tango Hotel Echo Victor Zulu,NA,true
+493,11/19/2021,true,Yankee Whiskey Romeo Mike Juliett Quebec Echo X-ray Sierra Tango Zulu,AS,true
+494,9/18/2021,true,Yankee Bravo Whiskey Charlie Alfa Quebec Victor Sierra November Romeo Delta Zulu Kilo Papa Mike Foxtrot Juliett Tango Golf,EU,false
+495,12/27/2021,false,Bravo Mike Juliett November Quebec India Kilo Papa Zulu X-ray Echo,NA,true
+496,11/5/2021,true,Foxtrot Uniform Bravo Romeo Kilo Juliett November Lima Sierra Whiskey Hotel Quebec Delta,EU,true
+497,7/31/2021,true,Yankee Delta November Papa Zulu Oscar Foxtrot Romeo Victor Alfa Echo Mike Kilo Uniform Tango Bravo Whiskey Lima,SA,false
+498,9/18/2021,false,Papa India Whiskey Kilo Echo X-ray Romeo November Golf Hotel Quebec Tango Juliett Alfa Foxtrot Zulu Delta Lima Victor,AS,false
+499,11/20/2021,false,Oscar Juliett November Golf Victor Tango Uniform Charlie Bravo Romeo Kilo Quebec Yankee Mike Lima Alfa Whiskey X-ray Zulu,SA,true
+500,10/31/2021,false,Lima Delta Sierra Quebec Yankee Charlie November Alfa Victor Zulu Uniform Whiskey Echo Kilo Bravo Tango Oscar Golf Juliett,NA,false
+501,12/13/2021,true,Hotel Romeo Delta Yankee Alfa Charlie Sierra Foxtrot Juliett November X-ray Mike Lima India Quebec,AS,true
+502,7/26/2021,true,Zulu Bravo Yankee Juliett Hotel Papa Quebec Uniform Oscar Sierra Victor,AS,false
+503,12/28/2021,true,Yankee Golf Tango Lima Whiskey Foxtrot X-ray Romeo India Uniform Delta Victor November Sierra Echo Bravo Hotel Mike Kilo,NA,false
+504,12/24/2021,true,Alfa Echo Charlie Oscar Kilo Tango Sierra Foxtrot Zulu Quebec,OC,false
+505,8/1/2021,true,Oscar Romeo Charlie Sierra Mike X-ray November Papa Yankee Zulu Alfa Tango,EU,false
+506,7/30/2021,false,Uniform Romeo Juliett Papa Foxtrot Bravo Alfa Tango Quebec Kilo Victor Lima Echo Yankee Delta,NA,true
+507,10/7/2021,true,X-ray Quebec Foxtrot Bravo Alfa Zulu Golf Lima Mike Sierra Victor Echo,AF,false
+508,9/29/2021,true,Zulu November Whiskey Charlie Delta Sierra Hotel Foxtrot X-ray Alfa,NA,true
+509,11/28/2021,false,Yankee Bravo Papa Quebec Echo Sierra November Kilo Delta Romeo Foxtrot Mike Zulu Victor Uniform Golf,AS,false
+510,10/19/2021,true,Charlie Lima Papa X-ray Bravo Uniform Golf Romeo Mike Tango Oscar Kilo Yankee Juliett Victor Alfa Sierra November Delta Zulu,NA,false
+511,8/1/2021,false,Zulu Charlie Tango Yankee Whiskey Lima Papa Victor Delta Oscar Sierra Echo Kilo Quebec,AS,false
+512,10/12/2021,true,Delta Foxtrot Juliett Romeo Papa Uniform Quebec Oscar Bravo Alfa Mike November Kilo Charlie Zulu Lima Whiskey X-ray Hotel,NA,true
+513,8/1/2021,false,Juliett Quebec Uniform Victor Zulu India Tango Mike Echo Sierra,AF,true
+514,12/28/2021,false,Echo Quebec Oscar Alfa Foxtrot Golf Romeo Kilo India Zulu Delta X-ray Charlie,EU,true
+515,10/18/2021,true,Quebec Foxtrot India November Uniform Tango Papa Romeo Bravo Echo X-ray Zulu Whiskey,SA,true
+516,8/18/2021,true,Mike Juliett Romeo Alfa Victor Whiskey Sierra Papa Zulu Golf X-ray India,EU,false
+517,12/23/2021,false,Delta Papa Oscar Tango Zulu Uniform Mike Bravo Romeo Echo Juliett Foxtrot,AS,false
+518,9/6/2021,true,Juliett Charlie Delta Zulu Tango Quebec Romeo Lima Whiskey Foxtrot,AS,false
+519,12/7/2021,false,Papa Bravo Kilo Yankee Romeo Oscar Golf Hotel Sierra Alfa Charlie India Tango Foxtrot Mike Uniform Zulu,SA,false
+520,7/18/2021,false,Victor Romeo Quebec Papa November Hotel Sierra Echo Bravo India Juliett Lima Oscar Tango Yankee,AS,true
+521,9/29/2021,true,Sierra Mike X-ray Kilo November Hotel Alfa Echo Tango Romeo Foxtrot Juliett Papa Quebec,NA,false
+522,10/25/2021,true,Kilo Charlie Delta Papa Tango Romeo Hotel Bravo Echo Quebec Foxtrot Yankee Zulu,NA,true
+523,11/24/2021,false,Echo Lima Papa Kilo Charlie Zulu Victor Foxtrot Mike Sierra Quebec Whiskey,AS,false
+524,10/28/2021,false,Bravo Victor Alfa Romeo Foxtrot X-ray India Sierra Kilo Uniform Lima November Golf Mike Juliett,NA,false
+525,10/28/2021,true,Lima Juliett India Alfa Victor Yankee Foxtrot Delta Mike Hotel Charlie,NA,false
+526,12/4/2021,true,Mike Whiskey Yankee Hotel Tango X-ray Bravo Uniform Victor Kilo Lima Alfa Echo Oscar Sierra Papa Zulu,AS,true
+527,9/20/2021,false,Kilo Romeo Yankee Uniform Foxtrot Delta Lima Juliett Quebec Papa Victor Hotel Zulu,OC,true
+528,8/4/2021,false,Echo Oscar Papa Hotel India Yankee Victor Golf Tango Bravo Kilo Juliett Foxtrot Uniform Mike Zulu Lima Delta X-ray,NA,false
+529,9/16/2021,true,Zulu Sierra Uniform X-ray India Quebec Echo Lima Foxtrot Mike Victor Tango Delta Whiskey Kilo November Hotel,SA,true
+530,11/6/2021,true,X-ray Foxtrot Alfa Quebec Hotel Whiskey India Golf Charlie Oscar November Bravo Delta Sierra Echo Victor Papa Lima,AS,false
+531,8/28/2021,true,Zulu Alfa Romeo Papa Whiskey Sierra Hotel Juliett Quebec Bravo India Victor X-ray Oscar Lima Delta Tango Echo,AS,false
+532,8/31/2021,true,Yankee Juliett Kilo Echo Alfa India Delta Sierra Romeo Uniform November Bravo Foxtrot Golf Charlie Papa Victor Zulu Whiskey Tango,OC,true
+533,9/28/2021,true,Golf Uniform Echo Victor Hotel Romeo Bravo Zulu November Tango Oscar Charlie Foxtrot Lima X-ray Quebec,AS,true
+534,9/24/2021,true,Mike Hotel Golf Juliett Bravo Tango Echo Lima Victor Delta Foxtrot November Uniform,NA,true
+535,9/23/2021,true,Bravo Lima Delta Uniform Echo Golf Juliett Oscar Foxtrot Victor Sierra Tango Kilo Hotel Charlie X-ray Quebec Whiskey Yankee,NA,true
+536,7/9/2021,false,Lima Oscar X-ray Hotel Tango Mike Sierra Romeo November Alfa,SA,true
+537,10/3/2021,true,Whiskey Yankee Kilo Charlie Golf Foxtrot Alfa Hotel X-ray November Zulu Mike Tango Oscar Lima Romeo Juliett Quebec India Echo,EU,true
+538,7/5/2021,true,Sierra Foxtrot Echo Quebec Alfa Oscar Whiskey Kilo Lima Delta India Bravo Papa Charlie Juliett Zulu Golf Uniform X-ray Victor,SA,true
+539,8/17/2021,true,Zulu Alfa India Golf Oscar Lima Kilo Whiskey Papa Foxtrot Charlie Mike Bravo Yankee Romeo Echo Quebec Delta Hotel,AS,true
+540,8/18/2021,true,Quebec Whiskey Bravo Victor November Foxtrot Delta Golf Papa Juliett Mike Kilo Yankee,NA,true
+541,11/29/2021,false,Golf X-ray Foxtrot India November Juliett Lima Mike Tango Alfa Romeo Papa,NA,false
+542,8/14/2021,true,Tango Sierra Juliett Charlie Zulu Mike Whiskey India Delta Victor Lima,NA,false
+543,12/11/2021,true,Golf Bravo Charlie Oscar Papa X-ray Mike India Sierra Alfa Juliett Foxtrot Romeo,AS,true
+544,8/28/2021,false,Romeo November Kilo Yankee Oscar Sierra Uniform Alfa Golf Charlie Lima Delta Zulu Bravo Hotel Tango,NA,true
+545,7/13/2021,true,Papa Mike Delta Zulu Juliett Yankee X-ray Sierra India Romeo Quebec Tango Foxtrot Golf Bravo,NA,false
+546,11/16/2021,true,Hotel November Lima Mike Whiskey India Yankee Papa Golf Romeo Delta Uniform X-ray Echo Sierra Quebec Juliett Tango Oscar Charlie,AF,false
+547,7/2/2021,false,Kilo Quebec Sierra X-ray Zulu India Yankee Juliett Oscar Whiskey Lima Delta Charlie Bravo Alfa,OC,true
+548,7/22/2021,false,Kilo Charlie Tango X-ray Bravo Sierra Yankee Foxtrot Lima Quebec Juliett Uniform Mike November Zulu Victor Hotel Golf India Whiskey,AS,true
+549,10/7/2021,true,November Charlie Sierra Yankee Zulu Alfa Golf Papa Romeo Oscar Foxtrot,AF,false
+550,8/2/2021,false,Victor Foxtrot Yankee Kilo Charlie Papa Mike Tango Hotel Sierra November,AF,false
+551,12/25/2021,true,X-ray Zulu Papa India Quebec Alfa November Bravo Uniform Mike Victor Yankee Romeo Delta Kilo Echo Whiskey Foxtrot Hotel Lima,EU,false
+552,8/19/2021,false,Tango Whiskey Echo Quebec Hotel Zulu India Charlie Oscar Romeo Golf Papa Delta Alfa Uniform November,NA,false
+553,9/25/2021,false,Tango Kilo Foxtrot Sierra Echo Delta Lima Golf Juliett Zulu India X-ray Victor Romeo Bravo Whiskey Oscar Quebec Uniform Hotel,OC,true
+554,8/19/2021,false,Whiskey Uniform Sierra Delta Papa X-ray Quebec Charlie November India Yankee Juliett Zulu Kilo Tango Foxtrot Bravo Victor,SA,false
+555,8/3/2021,false,Charlie Delta X-ray Tango Yankee Bravo Zulu Papa Whiskey Uniform Quebec India Alfa,OC,true
+556,8/30/2021,true,Lima Whiskey X-ray Hotel Quebec Golf Yankee Mike Sierra Bravo Zulu Uniform Romeo Juliett Victor Tango Alfa,NA,true
+557,11/23/2021,true,Romeo Echo Lima Kilo Mike Tango Zulu Delta India Foxtrot Yankee Victor Uniform Alfa Sierra Papa Bravo Oscar Golf Juliett,SA,false
+558,9/1/2021,true,Alfa Juliett Whiskey Quebec Zulu Charlie Golf Bravo Uniform Echo Sierra Delta Oscar Papa Mike November Yankee,AS,false
+559,7/13/2021,true,November Foxtrot Alfa India Papa Mike Victor Charlie Yankee Echo Zulu Sierra Tango X-ray Golf Juliett Hotel Oscar Bravo Romeo,AF,false
+560,10/27/2021,true,Whiskey Romeo Sierra Foxtrot Echo Juliett Tango X-ray November Zulu Golf Hotel Victor Bravo Alfa Yankee,EU,false
+561,10/2/2021,false,Juliett Victor Echo Zulu Bravo Golf Lima November Foxtrot Uniform X-ray,AS,false
+562,7/16/2021,true,November Tango Juliett Echo Zulu Yankee Oscar Foxtrot Romeo Mike Uniform Charlie Kilo Bravo Delta Hotel,NA,false
+563,9/10/2021,false,India Victor Uniform Hotel Foxtrot Charlie Bravo Tango Alfa Kilo,NA,false
+564,8/23/2021,true,Mike Zulu Romeo Lima Victor Whiskey Tango Quebec X-ray Hotel Delta India Kilo Oscar Bravo,SA,false
+565,10/9/2021,false,Victor Whiskey X-ray India Delta Sierra Romeo Alfa Uniform Foxtrot Papa Charlie Juliett Golf Yankee Bravo Kilo,AS,false
+566,7/27/2021,true,Juliett Whiskey Delta Golf Bravo Zulu Quebec Hotel India Tango Romeo Sierra Oscar Foxtrot X-ray,OC,false
+567,11/8/2021,false,Lima Quebec Kilo Romeo Delta Zulu Whiskey Bravo Uniform Tango X-ray,AF,true
+568,8/2/2021,false,X-ray Papa Charlie Whiskey Zulu Sierra Hotel Romeo Oscar Juliett Mike Golf Quebec Victor India Foxtrot Echo Tango Kilo November,EU,false
+569,8/10/2021,false,Quebec Sierra X-ray Kilo Tango Oscar Echo Victor Foxtrot Juliett Golf,OC,true
+570,10/22/2021,false,Echo Tango Uniform Hotel Mike Papa Foxtrot Sierra Bravo Zulu,AS,true
+571,8/28/2021,true,Uniform X-ray Delta Hotel Papa Bravo Alfa Sierra Golf Tango Juliett November,AF,true
+572,12/10/2021,false,Delta November Mike Kilo Quebec India Lima Foxtrot X-ray Papa Whiskey Romeo Tango Yankee Zulu,EU,false
+573,8/16/2021,false,Yankee Foxtrot Golf Bravo Victor November Mike India Lima Zulu Quebec Alfa Hotel,NA,true
+574,8/21/2021,true,Mike November Delta Papa Quebec Yankee Echo Zulu Oscar Tango Alfa Sierra Uniform Victor Hotel Charlie,SA,false
+575,10/2/2021,true,Juliett Oscar Kilo Victor Yankee Alfa Charlie India Uniform Zulu Echo Foxtrot Bravo,NA,false
+576,10/2/2021,true,Papa Oscar India Foxtrot Romeo Echo Yankee Delta Kilo Uniform X-ray Whiskey Hotel Zulu,EU,false
+577,9/1/2021,true,Lima Foxtrot Juliett Yankee Kilo Bravo Quebec Charlie Hotel Delta Whiskey X-ray,AF,true
+578,9/6/2021,true,Kilo Papa X-ray Sierra Delta November Alfa Victor Hotel Quebec Bravo Golf Lima Juliett Uniform,NA,false
+579,9/3/2021,false,Hotel Zulu Yankee Lima Bravo X-ray Romeo Victor Delta Tango Alfa Kilo Quebec India Golf Papa November Uniform,EU,false
+580,8/7/2021,true,X-ray Zulu Mike Yankee November Hotel Oscar Sierra Charlie Juliett Romeo,EU,true
+581,11/6/2021,false,Quebec Alfa Echo Foxtrot Uniform Golf Victor Juliett Whiskey Lima Zulu Mike India,AS,true
+582,9/4/2021,true,Delta Yankee Quebec Hotel Bravo Sierra Foxtrot Zulu Lima Mike Golf Oscar Papa November X-ray Victor Juliett Romeo Tango,AS,true
+583,8/24/2021,true,Delta Foxtrot Papa Hotel Juliett India Yankee Kilo Zulu Golf Echo,NA,false
+584,12/29/2021,true,Romeo Victor Whiskey Juliett Delta Zulu Bravo India Papa Foxtrot Lima Tango November Yankee Quebec Kilo Alfa,EU,false
+585,8/9/2021,false,Uniform Bravo Romeo November Zulu Echo India Delta Oscar Yankee Whiskey Golf Tango Papa Mike,AS,true
+586,12/1/2021,true,Charlie Uniform Victor Juliett Tango Golf Delta November Kilo Whiskey Foxtrot Alfa,OC,true
+587,7/21/2021,false,Romeo Uniform Whiskey Foxtrot Echo Hotel Golf Bravo Victor Yankee Kilo Papa Oscar Juliett Mike Sierra Tango Charlie,OC,true
+588,10/28/2021,true,Charlie Whiskey Tango November Papa Bravo Zulu Yankee Echo Hotel X-ray Oscar,NA,false
+589,10/9/2021,false,Zulu Yankee X-ray Papa Tango Delta Foxtrot Alfa Romeo Sierra India Quebec Echo,NA,true
+590,12/6/2021,true,Lima Mike Golf Romeo Tango Zulu Echo Hotel Juliett Uniform Sierra November Papa Yankee Bravo Delta,NA,true
+591,8/23/2021,false,Yankee Zulu Quebec Kilo Golf Echo Lima Juliett Delta Bravo Oscar Mike Charlie Tango Victor Hotel November Romeo Alfa,NA,true
+592,11/17/2021,true,Kilo X-ray Whiskey Oscar India Hotel Quebec Charlie Tango Alfa Zulu Lima Juliett Papa Victor Romeo Mike,EU,false
+593,8/25/2021,true,Sierra November Kilo Romeo Mike Quebec Juliett Lima Tango Papa Charlie Foxtrot Hotel Zulu,AS,false
+594,12/29/2021,false,Whiskey Hotel Golf Delta November Oscar X-ray Kilo Victor Papa,AF,false
+595,8/2/2021,true,Charlie Whiskey Echo Delta Oscar Sierra Alfa Bravo Yankee Uniform,NA,false
+596,7/14/2021,true,Sierra Kilo Tango Romeo Whiskey Zulu Uniform Delta Bravo X-ray Foxtrot Juliett Mike Quebec Lima Hotel Alfa,NA,true
+597,7/25/2021,true,Alfa November Sierra Whiskey Zulu Mike Echo Oscar India Foxtrot Bravo Romeo X-ray Quebec Lima,NA,true
+598,10/14/2021,false,Lima Echo Hotel Zulu Whiskey Yankee Papa Sierra Foxtrot Juliett Oscar,NA,false
+599,12/8/2021,true,Echo Hotel Juliett Lima Uniform Romeo Golf Victor November Zulu Kilo Oscar Mike Whiskey Yankee X-ray Alfa,AS,true
+600,12/9/2021,false,Juliett Oscar India Charlie Zulu Tango Mike Golf Hotel Yankee Victor Kilo Romeo Echo X-ray Uniform,NA,true
+601,9/4/2021,false,X-ray Tango Alfa Lima Quebec Uniform Victor Kilo Whiskey Yankee Papa Golf November Delta,NA,true
+602,10/2/2021,true,Charlie Echo Zulu November Alfa Hotel Papa Kilo Yankee Romeo Delta Tango Lima Uniform Golf Bravo Mike X-ray Victor Juliett,NA,false
+603,11/22/2021,true,Uniform Papa Yankee Romeo Victor Hotel Juliett Charlie Bravo X-ray Echo Kilo India Sierra Whiskey Mike Alfa Oscar Zulu,AF,true
+604,11/22/2021,false,X-ray Charlie Oscar Romeo Golf Lima Zulu Tango November Mike Sierra Kilo Whiskey Quebec Alfa Papa Echo Foxtrot Victor,AF,false
+605,10/6/2021,true,Delta Charlie Oscar Papa Lima Tango November Sierra India Mike Golf Echo Foxtrot X-ray Hotel Uniform,NA,false
+606,11/25/2021,true,X-ray Uniform Whiskey Victor Delta Charlie Mike Zulu Papa Quebec,OC,true
+607,7/10/2021,true,Uniform Echo Victor Zulu Kilo Alfa Quebec Juliett Foxtrot X-ray Hotel Sierra Lima November Charlie Oscar,SA,false
+608,12/2/2021,true,Lima Whiskey Yankee Bravo Tango Hotel Romeo Delta Victor Uniform Echo Juliett Charlie Sierra Quebec Papa Foxtrot,NA,true
+609,11/9/2021,true,Echo Whiskey India Charlie Golf Uniform Oscar Tango Kilo Delta November Romeo Victor Alfa Quebec Mike Lima Sierra X-ray,NA,true
+610,12/4/2021,true,Kilo Hotel Juliett Yankee Foxtrot Sierra India Zulu Papa Whiskey Victor Echo Uniform Tango,AS,true
+611,10/19/2021,false,Romeo Charlie Delta Kilo Tango Oscar Victor X-ray Foxtrot November Quebec,EU,false
+612,12/11/2021,true,Bravo November Juliett Kilo Alfa Lima Echo Victor Romeo Mike X-ray Yankee Hotel Foxtrot,AS,true
+613,9/1/2021,true,X-ray Echo Juliett Whiskey Romeo Mike Papa Golf Foxtrot Hotel Zulu Lima Victor Tango Uniform November Charlie Kilo,OC,false
+614,8/29/2021,false,November Romeo Delta Papa Golf Whiskey India Sierra Juliett Victor Bravo Oscar Alfa Echo,OC,false
+615,12/12/2021,true,Papa Charlie Kilo Quebec Mike Echo Romeo Juliett Whiskey Golf Alfa Uniform Victor Tango Bravo,OC,true
+616,9/19/2021,false,Echo Romeo X-ray Golf Sierra Whiskey Alfa Papa Kilo November Bravo Uniform Quebec Yankee Delta Foxtrot India Oscar Lima,NA,false
+617,10/18/2021,true,Juliett Tango Lima Zulu November Alfa India Hotel Charlie Yankee Whiskey Bravo Sierra Delta Romeo Quebec,NA,true
+618,8/17/2021,true,Papa Sierra Echo Romeo Zulu Hotel Lima Whiskey Tango Mike Charlie Alfa Yankee Golf Quebec November Juliett X-ray,EU,true
+619,10/17/2021,true,Whiskey Juliett Kilo Charlie Mike November Foxtrot Papa Delta Tango Quebec Victor Bravo X-ray India Uniform Romeo Zulu,NA,false
+620,12/26/2021,true,Oscar Foxtrot Juliett Romeo Tango Papa Whiskey X-ray Uniform Golf Yankee Bravo Lima Hotel Victor Quebec,OC,true
+621,9/13/2021,true,India Tango Romeo Sierra Zulu Kilo Golf Foxtrot Uniform Whiskey X-ray Victor Quebec Yankee Alfa Oscar Echo November Bravo,NA,false
+622,9/14/2021,true,Bravo Foxtrot Zulu Charlie Delta Whiskey Golf Mike November X-ray Tango Hotel Lima Uniform Echo Alfa Victor,EU,false
+623,12/5/2021,true,Zulu Sierra Alfa India Uniform Echo Lima Juliett Papa Mike Yankee,AF,true
+624,7/22/2021,false,Charlie Echo Victor Foxtrot Delta Sierra Uniform Quebec November Zulu Mike X-ray,OC,true
+625,11/21/2021,true,X-ray Quebec Delta Lima Bravo Alfa Kilo Foxtrot Oscar Romeo Charlie Uniform Juliett India Papa,AF,false
+626,11/28/2021,true,Charlie India Echo November Sierra Mike Papa Zulu Victor Uniform Golf Tango Foxtrot Romeo Quebec,AS,false
+627,12/28/2021,false,Bravo Golf Foxtrot Mike X-ray Delta Sierra Zulu Papa Uniform Whiskey Lima India Victor,NA,false
+628,9/22/2021,true,Juliett Echo Mike Alfa Delta Bravo Sierra November Charlie Uniform Papa Quebec Whiskey Victor Oscar,EU,true
+629,10/7/2021,false,Alfa Bravo Whiskey Zulu Mike November Echo Lima Quebec Yankee India Sierra Victor Hotel Juliett Papa Charlie Foxtrot,EU,true
+630,8/12/2021,false,Victor Juliett Alfa Whiskey November Zulu Kilo Sierra Quebec Uniform X-ray,OC,true
+631,11/9/2021,false,Hotel Uniform X-ray Lima Tango Zulu Oscar Charlie Quebec Yankee Delta Romeo Mike India,OC,false
+632,9/16/2021,true,Mike Zulu Alfa Kilo Echo Romeo Charlie Foxtrot Yankee Juliett Golf Bravo Lima India Hotel Victor November Sierra Quebec,AS,true
+633,9/17/2021,true,Alfa Lima Sierra Yankee Bravo Tango Charlie X-ray Delta Foxtrot India Uniform Papa,NA,true
+634,11/29/2021,false,Yankee Romeo Kilo Victor Tango Oscar November Alfa Bravo Uniform Echo Foxtrot Delta Zulu,AS,true
+635,11/18/2021,false,Echo India Yankee Alfa Whiskey Oscar Tango Zulu Quebec Charlie X-ray Romeo Kilo Victor Sierra Hotel,NA,true
+636,9/22/2021,true,Foxtrot X-ray Uniform Echo Charlie Kilo Yankee Juliett Whiskey Delta Lima Tango Zulu Papa Sierra Alfa November Hotel Mike,NA,true
+637,9/16/2021,true,Uniform Tango Lima Mike Charlie Romeo Golf Juliett Kilo Victor,AF,false
+638,10/11/2021,true,Golf Delta Whiskey Lima X-ray Mike Bravo Sierra Charlie Oscar Yankee Juliett Tango Alfa Romeo Papa Zulu Kilo Hotel,OC,true
+639,10/17/2021,true,Tango Juliett India Mike Hotel Echo Uniform Foxtrot Zulu Quebec Bravo Charlie Sierra,NA,false
+640,12/16/2021,true,Whiskey Uniform India Mike Yankee Quebec Zulu Lima Delta Golf Kilo Hotel Oscar Charlie Victor Tango,OC,true
+641,7/18/2021,true,Romeo Kilo Alfa Lima Yankee Hotel Sierra Delta Charlie Echo Whiskey Papa,OC,false
+642,10/31/2021,true,Echo November Juliett Whiskey Sierra Uniform Charlie Lima Bravo Zulu Quebec Delta Hotel Tango Oscar Papa India Kilo,SA,true
+643,12/10/2021,true,Uniform Lima Hotel Alfa Bravo Victor Quebec X-ray Golf Romeo,NA,true
+644,11/27/2021,false,Victor Kilo Zulu Juliett Romeo Tango Hotel Oscar Sierra Golf India Quebec,AS,true
+645,12/9/2021,false,Alfa Foxtrot Echo Papa Golf Tango Whiskey Yankee Kilo Delta Romeo Mike,NA,true
+646,11/6/2021,false,November Romeo Tango Charlie X-ray Oscar Sierra Golf Kilo Papa Whiskey Quebec Lima Victor,NA,true
+647,12/20/2021,false,Romeo Delta Mike Oscar Kilo Hotel Lima Sierra Foxtrot Tango Charlie Uniform,AS,true
+648,9/13/2021,true,Yankee Mike Echo Bravo Golf Quebec India Hotel Kilo Zulu Foxtrot Alfa Victor November Sierra,NA,false
+649,7/16/2021,true,Lima Oscar Bravo Papa Victor Hotel Whiskey Zulu Echo Golf,AF,true
+650,11/10/2021,false,Yankee Foxtrot Quebec Kilo Hotel Charlie Sierra Bravo Papa Oscar Juliett Mike Alfa Tango Golf Lima Delta Whiskey November,NA,false
+651,11/8/2021,false,Yankee Mike Whiskey India Delta Juliett Tango Quebec Victor Oscar Kilo Golf Hotel,NA,true
+652,11/27/2021,true,Zulu Sierra Yankee Kilo Golf Romeo Echo Delta Charlie Alfa Lima Mike Quebec Oscar,AF,true
+653,10/8/2021,true,Zulu Papa X-ray Mike Romeo Quebec Tango Victor India Hotel Charlie Kilo Yankee Echo Oscar Golf Sierra,OC,false
+654,8/19/2021,false,Lima November Charlie India Delta Hotel Alfa Oscar Tango Juliett Zulu Kilo Uniform Foxtrot Whiskey Bravo Papa Yankee,AF,false
+655,9/15/2021,true,Yankee November Charlie Romeo Delta Tango Papa Zulu Quebec Victor Sierra Lima India Whiskey Juliett Alfa Kilo,OC,true
+656,8/19/2021,false,Mike Whiskey Juliett Hotel November Alfa Kilo Foxtrot Oscar Papa Delta Zulu Quebec,AF,true
+657,7/7/2021,true,November Delta Charlie Quebec Sierra Bravo Juliett Tango Mike X-ray Echo Oscar Hotel Papa,AS,false
+658,9/26/2021,false,November Papa Echo Oscar Uniform Mike India Foxtrot Bravo Yankee,OC,true
+659,12/8/2021,true,X-ray Echo Juliett Zulu Yankee Hotel Golf November Sierra Alfa Lima Romeo Papa Quebec Victor,NA,true
+660,9/2/2021,true,Uniform Quebec Oscar Echo Juliett Golf Foxtrot Romeo Yankee Zulu Lima,SA,true
+661,7/24/2021,true,Oscar Romeo Tango Foxtrot Alfa Papa Golf India Sierra Juliett Victor Charlie Uniform,NA,false
+662,7/18/2021,false,Bravo X-ray Juliett Oscar India Foxtrot Golf Whiskey Uniform Tango Hotel Alfa November,OC,true
+663,11/4/2021,false,Mike Quebec November Papa Kilo Lima India Hotel Alfa Yankee Victor Foxtrot Echo Juliett Romeo,NA,true
+664,11/30/2021,true,India Foxtrot Oscar Uniform Victor Mike Zulu Sierra Yankee Lima Romeo X-ray Hotel Charlie Quebec Juliett Kilo Whiskey,AF,false
+665,8/13/2021,false,Sierra Mike Tango Charlie Foxtrot Papa Kilo X-ray Uniform Alfa Lima Bravo November Yankee Oscar,AS,false
+666,9/22/2021,true,Charlie Whiskey Mike Kilo Alfa Lima Juliett Hotel Sierra India Quebec Oscar Bravo Victor X-ray Romeo Papa Echo Yankee Tango,AF,true
+667,8/24/2021,false,Kilo Hotel November Victor Sierra Mike Bravo India X-ray Oscar Golf Juliett Yankee Foxtrot Tango Echo Zulu Delta,NA,false
+668,10/4/2021,true,Sierra Uniform Charlie Tango Golf Alfa Kilo Foxtrot Hotel Mike India Whiskey Quebec,NA,false
+669,7/20/2021,false,Foxtrot Sierra Yankee Mike Alfa Oscar Quebec Zulu Echo Delta Uniform Romeo Papa November Hotel India Lima Charlie,OC,true
+670,12/3/2021,true,Foxtrot November Mike Victor Lima Alfa Golf Oscar Echo Bravo,AS,true
+671,10/16/2021,true,Mike Hotel Zulu Tango November Oscar Whiskey Quebec Kilo Delta Charlie Yankee Victor Echo Uniform Papa,AS,true
+672,10/26/2021,true,India Lima Romeo Bravo Echo X-ray Golf Zulu Alfa Oscar Hotel Charlie Quebec Delta Whiskey Juliett Tango,AS,true
+673,7/26/2021,false,Tango Juliett Mike Uniform Foxtrot November India Papa Romeo Hotel,OC,false
+674,10/25/2021,false,Foxtrot Zulu Whiskey India Sierra X-ray Victor Mike Papa November Oscar Delta Bravo Lima Hotel Uniform Charlie Golf,AS,false
+675,9/5/2021,true,Alfa Bravo November Charlie Juliett Kilo Oscar India Quebec Zulu Whiskey Hotel Golf Romeo Mike Sierra Papa X-ray Victor,EU,false
+676,7/2/2021,false,Foxtrot November Tango Sierra Mike Hotel Oscar Golf India Romeo Juliett Delta Charlie Victor Echo Bravo Yankee Whiskey Zulu,EU,false
+677,11/14/2021,false,Zulu November Echo Foxtrot Mike Romeo Whiskey Papa Uniform Oscar Alfa Tango Sierra Golf Hotel India Lima Victor,AF,true
+678,10/8/2021,false,Romeo Victor India November Hotel Sierra Charlie Quebec Echo Mike X-ray Delta,EU,true
+679,8/17/2021,true,Juliett Delta Alfa Hotel Echo Bravo Golf X-ray Zulu November Romeo Lima Quebec Oscar Kilo Foxtrot Mike India Victor,AS,true
+680,10/26/2021,false,Papa Foxtrot Sierra Golf Victor Quebec Kilo Bravo Echo November Mike Whiskey India Zulu Tango X-ray,AS,false
+681,10/21/2021,false,Sierra Tango India X-ray Lima Foxtrot Kilo Delta Quebec Oscar Yankee,NA,false
+682,12/23/2021,true,Whiskey Yankee Romeo Charlie Sierra Hotel Tango Oscar X-ray Victor November Quebec India,NA,false
+683,11/18/2021,false,Mike Romeo Delta Victor Whiskey Zulu Lima Uniform Golf Kilo India Echo Hotel,SA,true
+684,12/22/2021,true,Whiskey November Delta Hotel India Romeo Golf X-ray Uniform Tango Mike Papa Charlie Kilo Echo Victor Bravo,AF,true
+685,10/11/2021,false,Golf Charlie Hotel Whiskey India Papa Juliett Echo Alfa Lima Foxtrot Oscar X-ray Kilo Yankee Quebec Mike Victor Bravo November,EU,true
+686,10/27/2021,true,Hotel Tango Sierra Alfa Charlie Papa Lima Whiskey Bravo Juliett Kilo Victor Mike Quebec,EU,true
+687,10/17/2021,false,X-ray Foxtrot Zulu Delta Juliett Whiskey Kilo India Sierra Bravo Romeo Echo Hotel Golf Tango Mike,SA,false
+688,12/15/2021,true,Juliett Bravo Oscar Echo Lima Yankee Quebec Hotel Sierra X-ray India Golf November Romeo Foxtrot Alfa Zulu Victor Papa,NA,true
+689,11/18/2021,true,Romeo Hotel Alfa Quebec November Tango Lima Mike Kilo Victor Bravo Yankee,AS,true
+690,12/26/2021,false,Lima Zulu Charlie India November Quebec Romeo Uniform Echo Papa,NA,false
+691,8/31/2021,false,Hotel Romeo Quebec Juliett Kilo Whiskey Echo X-ray India Sierra November Oscar Golf Bravo Foxtrot Mike Delta Victor Lima Tango,AS,true
+692,12/8/2021,false,Papa X-ray Delta Echo Lima Uniform Kilo Oscar Whiskey Juliett Sierra Quebec Romeo India Foxtrot Alfa Charlie Tango Hotel,AS,true
+693,10/6/2021,true,Tango Alfa Juliett Delta Charlie November Echo Quebec Yankee Sierra Foxtrot Lima X-ray,AF,true
+694,11/23/2021,false,Lima Sierra Zulu Victor Charlie Bravo Delta Juliett November Whiskey Quebec Hotel Romeo Echo Mike Alfa Papa India,AS,true
+695,12/8/2021,true,Romeo Golf Mike Uniform Hotel Victor X-ray Whiskey India Oscar Zulu Kilo Sierra Papa Echo Delta,NA,true
+696,12/8/2021,true,Tango India Uniform November Victor Kilo Charlie Delta Foxtrot Papa Whiskey Sierra Alfa X-ray Hotel Golf Lima Bravo,AS,false
+697,9/21/2021,false,Delta Foxtrot Alfa Lima Bravo Echo Uniform November Juliett Zulu Hotel Charlie Victor Tango Romeo Mike India Yankee Papa Whiskey,NA,false
+698,12/14/2021,false,Quebec Victor Whiskey Lima Bravo Sierra Kilo Oscar X-ray Romeo Golf,SA,true
+699,9/4/2021,true,Delta X-ray Romeo Lima Juliett Echo Tango Whiskey Charlie Papa Yankee Bravo,NA,false
+700,8/2/2021,false,Quebec Delta Golf Romeo Lima November Yankee Uniform Tango Whiskey Echo Kilo,SA,true
+701,12/5/2021,false,Oscar Romeo Uniform Papa X-ray Bravo Tango Delta Alfa Juliett Sierra Zulu Hotel Mike Whiskey,NA,true
+702,12/8/2021,false,Charlie Quebec Sierra Romeo Tango Uniform Kilo Hotel Zulu Whiskey November Yankee Foxtrot X-ray Echo Alfa Lima Golf Papa,AF,false
+703,7/11/2021,true,Tango Delta Uniform Charlie Sierra Papa Romeo Echo Golf Alfa Juliett,AS,true
+704,11/2/2021,true,Zulu Kilo Lima Romeo Mike Echo Quebec Golf Uniform Hotel Delta Sierra Bravo India Foxtrot Papa Juliett Tango,AS,false
+705,11/20/2021,false,Uniform November Kilo Zulu Oscar Juliett Lima Sierra Whiskey Tango Bravo,NA,true
+706,11/11/2021,true,Tango Kilo Yankee Uniform Hotel Whiskey November Charlie Romeo Foxtrot Echo Sierra Zulu India,SA,false
+707,10/3/2021,false,India Papa Echo Bravo Quebec Sierra Hotel Uniform Lima Oscar Whiskey Golf Charlie,SA,true
+708,7/16/2021,false,Charlie Juliett India Kilo Echo Tango Hotel Foxtrot Alfa Uniform Oscar Yankee Golf November Romeo Mike Quebec,NA,false
+709,8/26/2021,false,Tango Bravo Lima Foxtrot Quebec Alfa Papa Hotel Echo Victor Kilo X-ray November Yankee Golf,OC,false
+710,7/16/2021,true,Victor Alfa November Romeo Echo Bravo Kilo Zulu Mike Delta Charlie Tango Golf Juliett Uniform Foxtrot Quebec Hotel X-ray Whiskey,NA,false
+711,7/7/2021,true,Delta X-ray Juliett Sierra Papa Charlie Whiskey Echo Victor Bravo Alfa Hotel Yankee,NA,true
+712,9/10/2021,false,Golf Quebec Victor Oscar Whiskey November Echo Romeo Delta India Bravo Tango X-ray Uniform Papa,AS,true
+713,7/5/2021,false,Yankee Foxtrot Oscar November Whiskey Papa X-ray Juliett Quebec Golf Alfa Echo Uniform Sierra Victor India Bravo,NA,true
+714,12/6/2021,true,Hotel X-ray Charlie Victor Zulu Delta Yankee Kilo Alfa Uniform,OC,false
+715,12/2/2021,true,Foxtrot Alfa Mike Charlie Sierra X-ray India Whiskey Golf Quebec Zulu Hotel Echo November Romeo Papa Tango Delta Yankee,OC,true
+716,7/20/2021,true,Zulu Hotel Delta Yankee Sierra Lima Juliett Papa Kilo Uniform India X-ray Charlie Echo November Oscar Foxtrot Bravo Mike Quebec,EU,true
+717,12/4/2021,false,Bravo X-ray Zulu Oscar Golf Sierra Delta Uniform Kilo Papa Tango Whiskey Hotel Juliett Alfa India November,NA,false
+718,10/27/2021,true,Kilo Victor Mike Foxtrot Uniform Whiskey X-ray Alfa Yankee Sierra Delta November Charlie Echo Quebec Romeo Zulu Tango Golf India,NA,false
+719,10/29/2021,false,X-ray Victor Alfa November Sierra Echo Foxtrot Charlie Oscar Papa Uniform Golf Tango Whiskey Bravo Delta India Lima Hotel Zulu,OC,false
+720,7/14/2021,false,Uniform Bravo Echo India Golf Quebec Juliett Sierra Yankee Victor Kilo,NA,false
+721,11/18/2021,true,Whiskey Quebec Zulu Alfa November Victor Yankee Hotel Charlie India Echo Delta Kilo Oscar,AS,true
+722,8/18/2021,true,India Charlie Juliett Alfa Delta Oscar Yankee Hotel Lima Victor Foxtrot November Uniform Tango Zulu Golf Romeo,NA,true
+723,10/7/2021,false,India Romeo Alfa Quebec November Hotel Delta Golf Foxtrot Sierra Tango Kilo Uniform X-ray Juliett Yankee Echo Papa Lima,OC,false
+724,8/26/2021,false,November Romeo Golf India Alfa Oscar Yankee Foxtrot Delta Mike,AF,false
+725,10/19/2021,false,Yankee X-ray Mike Victor Foxtrot Quebec Alfa Golf Uniform Tango Oscar Hotel Whiskey Bravo India Delta Romeo Kilo Juliett,NA,true
+726,7/30/2021,true,Mike India Victor Sierra Alfa Hotel Charlie Juliett Lima Kilo,OC,false
+727,12/28/2021,true,Quebec Tango Yankee November Papa Golf Zulu Romeo Echo Alfa Lima Victor Foxtrot Hotel Mike Delta Bravo Uniform,OC,false
+728,11/24/2021,false,Mike Whiskey Charlie Quebec Delta Zulu Hotel Uniform Juliett November Echo Golf Foxtrot Kilo Tango Victor Yankee Alfa India Oscar,NA,true
+729,8/22/2021,true,Yankee Charlie Quebec Kilo Alfa November Golf Romeo Sierra Uniform Bravo Delta X-ray Zulu Hotel India Echo,NA,false
+730,9/1/2021,true,Zulu Charlie India Victor Delta Kilo Quebec Mike Uniform Foxtrot X-ray Alfa Lima Hotel Tango Sierra Echo,OC,false
+731,9/15/2021,true,Victor India Charlie Whiskey X-ray Quebec November Mike Delta Papa Uniform Bravo,NA,false
+732,8/15/2021,false,X-ray November Tango Juliett Foxtrot Sierra Papa India Yankee Echo,SA,false
+733,12/1/2021,true,Oscar Foxtrot Golf Quebec Hotel Alfa Yankee November Charlie Juliett Bravo Kilo Romeo Lima India Mike,AS,false
+734,8/29/2021,true,Delta Charlie Kilo Romeo Oscar Bravo X-ray Quebec Juliett Lima Mike Alfa Papa,NA,false
+735,10/29/2021,true,Alfa Golf Kilo Victor Mike Echo Romeo Papa Juliett Uniform Quebec Bravo Oscar November Foxtrot,NA,false
+736,9/13/2021,false,Mike Quebec Tango Alfa Foxtrot Yankee Papa Golf Sierra Whiskey Oscar,SA,true
+737,10/4/2021,false,Tango Charlie Kilo Oscar Whiskey Uniform Romeo Yankee Papa X-ray Foxtrot India Golf Bravo November Juliett Echo Sierra Zulu Hotel,AF,true
+738,8/7/2021,false,Lima Yankee Golf Juliett Romeo Mike Uniform Whiskey India Kilo Sierra November Bravo Papa Victor,OC,false
+739,10/13/2021,false,Foxtrot Sierra November Romeo Charlie Victor Tango Papa Quebec X-ray Oscar,AS,false
+740,10/20/2021,false,Juliett Delta Lima Zulu X-ray Victor Tango Quebec Golf India Sierra Romeo November Whiskey Bravo Echo Kilo Alfa Foxtrot Oscar,NA,false
+741,7/29/2021,true,November Whiskey Quebec Juliett Tango Romeo Echo Golf India Hotel Foxtrot Alfa Yankee Charlie Lima Sierra Mike Bravo Oscar,NA,false
+742,8/31/2021,true,Sierra Romeo Alfa Tango Lima Hotel Quebec Papa Mike Uniform Yankee X-ray Delta Echo Bravo,SA,true
+743,11/9/2021,true,Zulu Kilo Papa Lima November Charlie Bravo Juliett Alfa India Tango Whiskey Hotel Romeo Foxtrot Delta Echo Quebec Oscar Mike,AF,true
+744,11/15/2021,false,Mike Lima India Hotel Romeo Echo Bravo November Tango Delta Whiskey Quebec,NA,true
+745,12/21/2021,true,Golf Echo Uniform Delta Bravo Victor Alfa Juliett India Romeo Mike Lima Hotel Yankee Quebec X-ray Foxtrot Oscar,NA,false
+746,9/13/2021,true,November Juliett Lima Mike Delta Sierra India Tango Uniform Kilo Quebec Alfa Echo,AS,true
+747,8/5/2021,false,Yankee Mike Whiskey Juliett Hotel Kilo Alfa India Oscar X-ray Victor Zulu Uniform Echo Papa Romeo Lima Foxtrot Golf November,AS,false
+748,12/7/2021,true,Tango Mike Echo Zulu Victor Lima Foxtrot Romeo Papa Yankee Hotel Delta Sierra,AS,false
+749,8/9/2021,true,Oscar Papa November X-ray Mike Tango Charlie Sierra Romeo Hotel Kilo Golf Zulu Bravo Uniform Quebec,NA,false
+750,12/26/2021,true,Papa Alfa India Charlie Zulu X-ray Victor Oscar Kilo Uniform Lima Echo Mike Yankee Golf,AS,true
+751,11/13/2021,true,Mike India Whiskey Lima Kilo November Alfa Sierra Yankee Oscar,NA,true
+752,10/6/2021,false,Bravo Echo Oscar Romeo November Foxtrot Whiskey Mike Victor Lima Yankee Hotel Zulu Kilo Charlie India Sierra,AF,true
+753,8/4/2021,false,Sierra Juliett Bravo November Golf Whiskey Alfa Lima Delta Hotel Victor X-ray Echo,AF,true
+754,10/13/2021,false,Alfa Quebec Romeo Bravo Foxtrot Uniform Sierra Tango November Golf Papa Charlie,SA,false
+755,10/8/2021,true,Yankee Uniform Tango November Hotel Victor Mike Echo Papa X-ray Oscar,AF,true
+756,10/1/2021,false,Romeo Zulu Charlie Juliett November Golf Oscar Echo X-ray Bravo Victor Foxtrot Hotel,SA,false
+757,7/31/2021,false,Kilo November Delta Zulu Uniform Foxtrot Quebec Bravo Whiskey Golf Romeo Lima Papa Victor,SA,false
+758,7/1/2021,false,Uniform India Charlie Zulu Echo Tango Hotel Alfa Bravo Mike Quebec Victor Yankee Foxtrot Oscar Delta X-ray,SA,true
+759,10/19/2021,true,Zulu Romeo Mike Alfa Papa Foxtrot Echo Golf Juliett Tango Delta Sierra,AS,false
+760,10/12/2021,false,Mike Papa Foxtrot Hotel Bravo Uniform Lima Sierra Oscar Tango Victor November Delta Alfa X-ray India Quebec Zulu,AF,false
+761,8/11/2021,true,Bravo Lima India Echo Golf Hotel Foxtrot Sierra Romeo Papa Charlie Uniform November Delta Zulu Mike Yankee,AF,false
+762,7/21/2021,false,Kilo India Sierra Quebec Tango Lima Zulu Uniform Romeo Echo X-ray,NA,true
+763,9/6/2021,true,Tango Echo Juliett Mike Golf Hotel X-ray Victor Uniform Quebec Sierra Papa,EU,false
+764,12/3/2021,false,India Charlie November Uniform Mike Hotel Romeo Quebec Echo Victor Golf Bravo,AS,false
+765,7/26/2021,true,Oscar Papa Foxtrot Charlie Juliett Hotel Romeo Echo Golf Sierra November Whiskey Mike Lima Tango X-ray,NA,false
+766,11/3/2021,true,Charlie Romeo Zulu Victor X-ray Papa Mike India Alfa Tango Foxtrot Hotel Quebec Lima Delta,EU,true
+767,12/18/2021,true,India Golf Tango Romeo Juliett Quebec Hotel Sierra Delta Charlie Kilo Yankee Mike X-ray Lima November Echo,EU,true
+768,7/11/2021,true,Yankee India Delta Victor Kilo Lima Alfa X-ray Tango Uniform Echo Whiskey Hotel Quebec Juliett Romeo Foxtrot Mike Zulu Sierra,OC,true
+769,10/29/2021,true,Lima Alfa Romeo Sierra Charlie Whiskey Golf Quebec Delta Hotel Zulu,NA,false
+770,9/19/2021,true,Tango Bravo India Romeo Hotel Delta Mike Charlie Zulu Oscar Victor Juliett Kilo Echo Lima Whiskey Sierra Yankee Papa,AS,true
+771,9/21/2021,true,November X-ray Alfa Echo Papa Foxtrot Juliett Golf Yankee Uniform Charlie Zulu,NA,false
+772,12/4/2021,true,Echo Lima Tango Yankee Papa Sierra Oscar Whiskey November Uniform India Romeo Zulu Victor Bravo Mike Foxtrot Kilo Golf,AF,true
+773,11/7/2021,true,Sierra Tango Oscar Uniform Quebec Golf Romeo X-ray November Charlie Zulu,NA,false
+774,12/21/2021,true,Oscar Uniform Foxtrot Romeo X-ray Victor Echo Whiskey Lima Delta India Papa Kilo Mike Yankee,EU,false
+775,11/8/2021,true,Sierra X-ray Lima Oscar Foxtrot Juliett Charlie Tango Uniform Zulu Victor Whiskey Alfa November India,NA,true
+776,11/23/2021,false,Foxtrot Hotel India Bravo Alfa Echo Juliett Quebec Papa Delta Mike Victor Whiskey November Golf Zulu Charlie Yankee Kilo,NA,false
+777,8/24/2021,true,Yankee Foxtrot Zulu November Tango Oscar Mike Uniform Bravo Golf,OC,false
+778,11/15/2021,false,Mike Lima November Foxtrot Uniform Yankee Delta Charlie X-ray Papa Oscar India Golf Echo Zulu Kilo Tango Juliett,NA,true
+779,12/8/2021,false,Whiskey Foxtrot Delta Victor Kilo Sierra Uniform X-ray Quebec Charlie Bravo,OC,true
+780,7/26/2021,false,Victor Foxtrot Yankee Juliett Whiskey Papa Oscar Romeo Charlie Alfa Tango Mike Echo Zulu Sierra Kilo Golf,NA,false
+781,10/15/2021,false,Echo Tango Golf Papa Hotel Romeo Quebec Bravo Sierra November Alfa X-ray Lima Foxtrot,SA,false
+782,12/30/2021,true,Golf Lima Papa Oscar Sierra Foxtrot Charlie Delta Kilo Juliett Uniform Hotel Yankee Mike Whiskey Victor Echo Zulu X-ray,NA,false
+783,12/2/2021,false,Mike Victor Uniform Sierra Zulu Tango Quebec Romeo X-ray Whiskey Alfa Lima Bravo,NA,true
+784,12/22/2021,false,Uniform Kilo Juliett Oscar Lima Zulu November Mike Quebec Tango Delta Whiskey Golf Romeo X-ray Yankee Hotel Alfa,AF,true
+785,11/7/2021,false,Golf Juliett Alfa Foxtrot Uniform November Oscar Whiskey Charlie Bravo,AS,true
+786,12/12/2021,true,Zulu Bravo Golf Echo Sierra Lima Oscar Charlie Delta Papa Juliett,OC,true
+787,12/16/2021,false,Lima Papa Victor Zulu November Juliett Alfa Uniform Whiskey Mike Hotel Yankee Foxtrot Tango India X-ray,AF,false
+788,10/28/2021,true,X-ray Charlie Delta Foxtrot Golf India Zulu Echo Yankee Mike Papa Oscar Whiskey Uniform,NA,true
+789,8/19/2021,true,Zulu November Quebec Echo Oscar Yankee Hotel Charlie Whiskey Alfa Mike Delta Victor Lima Papa,EU,false
+790,8/17/2021,false,Mike Tango Uniform Foxtrot Echo Charlie Quebec India Alfa Victor Bravo Kilo November Golf Lima Yankee Oscar Delta Zulu Juliett,AF,false
+791,12/20/2021,false,November Golf Juliett Echo Whiskey Victor Lima India Yankee Uniform Bravo Alfa Sierra,NA,true
+792,8/5/2021,false,Echo X-ray Tango Juliett Papa Charlie Victor Kilo Romeo Bravo Whiskey Delta,NA,false
+793,7/4/2021,true,Papa Tango Mike Delta Lima Yankee Whiskey Foxtrot Oscar India Bravo Hotel November,OC,false
+794,10/22/2021,false,Mike India Victor Foxtrot Quebec Sierra Alfa Juliett Oscar Kilo Charlie Bravo Yankee Romeo Papa Uniform Echo Hotel Whiskey,NA,false
+795,10/31/2021,true,Romeo Oscar Delta Alfa Golf Victor Uniform Whiskey Charlie Foxtrot India Juliett,SA,true
+796,7/5/2021,false,Whiskey India Charlie Foxtrot Mike Echo Kilo Juliett Yankee X-ray Bravo Lima Golf Sierra November Delta Tango Victor Hotel,SA,true
+797,8/31/2021,true,November Zulu Victor X-ray Romeo Uniform Tango Papa Bravo Quebec India Juliett,NA,false
+798,9/28/2021,true,Hotel Yankee Echo Foxtrot Juliett Sierra Delta Romeo Zulu Lima Mike X-ray Charlie India Tango Bravo Quebec Kilo,NA,true
+799,12/23/2021,true,Whiskey Uniform Zulu Quebec Oscar Hotel Bravo Victor Golf India Mike Echo,OC,false
+800,12/25/2021,false,Yankee Juliett Papa Oscar Quebec Romeo November Hotel Golf Mike Tango Charlie India Echo Kilo,NA,true
+801,12/8/2021,false,Hotel Charlie Golf Yankee India November X-ray Juliett Victor Kilo Papa Bravo Whiskey Foxtrot Tango,NA,false
+802,7/26/2021,true,Tango Whiskey Delta Foxtrot Romeo Zulu Papa Victor Hotel Sierra Quebec Charlie Mike,NA,false
+803,8/25/2021,false,Juliett Sierra Lima Uniform Echo Kilo November X-ray Tango Alfa Yankee Hotel Bravo Quebec Romeo India Golf Foxtrot Victor Oscar,AS,true
+804,11/8/2021,true,November Whiskey Echo Yankee Delta India Bravo Hotel Quebec Oscar X-ray Juliett Lima,OC,false
+805,12/25/2021,true,Juliett Romeo Yankee Uniform Zulu Golf Mike Oscar Echo India Sierra Whiskey Charlie Tango Papa Foxtrot Kilo,NA,true
+806,11/16/2021,false,Echo Alfa Juliett Victor Bravo Golf India Whiskey Kilo Yankee Quebec November Charlie Romeo,OC,true
+807,12/13/2021,true,Oscar Mike Whiskey Romeo Foxtrot Zulu Delta Charlie Papa Sierra Victor Kilo Yankee Juliett,NA,true
+808,11/8/2021,true,Golf Oscar Uniform Foxtrot Whiskey Charlie Lima Delta Papa Hotel Yankee Bravo Zulu,AS,false
+809,10/20/2021,false,Whiskey Foxtrot Sierra Charlie X-ray Echo Uniform India Hotel Zulu Delta Romeo Kilo Bravo Juliett Tango Yankee Papa Golf,NA,true
+810,10/26/2021,true,Whiskey Delta X-ray Uniform Foxtrot Tango Sierra Papa Victor Juliett Mike Lima November Golf Bravo Echo Quebec,NA,true
+811,11/12/2021,true,Golf Oscar Quebec Lima Hotel X-ray Papa Yankee Romeo Mike Zulu Whiskey Sierra Foxtrot Charlie Victor Kilo November,SA,false
+812,11/2/2021,false,Charlie Juliett Foxtrot Hotel Golf November India Kilo Oscar Delta Quebec Zulu,NA,false
+813,12/8/2021,true,India Romeo Uniform Whiskey Tango Sierra Oscar Foxtrot X-ray Victor Delta November Zulu,SA,true
+814,11/7/2021,false,Quebec Charlie Sierra Oscar Kilo Delta Yankee Hotel Juliett Romeo Victor Mike,OC,false
+815,9/26/2021,true,India Hotel Charlie Papa Uniform Foxtrot Mike X-ray Delta Tango Quebec Zulu,NA,true
+816,11/20/2021,true,Papa Lima Foxtrot Charlie Kilo Hotel India Juliett X-ray Tango,EU,true
+817,9/4/2021,false,Papa Lima November Romeo Charlie Echo India Sierra Golf Victor Mike Delta Zulu Tango Juliett Bravo Yankee Foxtrot X-ray,AF,true
+818,7/23/2021,false,Bravo Hotel Oscar Delta India Victor Sierra November Juliett Romeo Golf Kilo Mike Tango Yankee Uniform Papa Zulu Foxtrot,SA,true
+819,7/19/2021,true,Mike Echo Tango Yankee Quebec Bravo Lima Whiskey Romeo Victor Alfa,NA,false
+820,7/10/2021,false,Golf Mike Uniform Sierra November Hotel Delta Charlie Juliett Oscar Romeo Bravo Victor Papa Kilo Lima India,NA,false
+821,7/7/2021,false,Juliett November X-ray Mike Charlie Kilo Hotel Alfa Sierra Zulu Victor Golf Foxtrot Echo Papa Whiskey India Romeo Tango,AS,false
+822,12/15/2021,true,Zulu Quebec Romeo Juliett November Bravo Echo Mike Kilo Oscar Charlie Hotel India Victor Whiskey Golf Sierra Foxtrot Delta,NA,true
+823,7/20/2021,true,Tango Foxtrot Mike Lima Juliett Oscar Romeo Victor Charlie Kilo Quebec Echo,OC,true
+824,9/3/2021,true,Mike Foxtrot X-ray Echo Juliett India Kilo Hotel Charlie Yankee Lima Romeo Quebec Bravo Sierra November Zulu Golf Alfa,AF,false
+825,12/27/2021,true,Kilo Tango Whiskey Bravo Oscar Quebec Zulu Uniform X-ray Yankee Victor Mike Sierra,AF,true
+826,11/30/2021,false,Bravo Oscar Charlie Hotel Lima Alfa X-ray Golf India Yankee Whiskey Tango Mike Victor Kilo Juliett Echo Papa,NA,false
+827,7/1/2021,true,Zulu Papa Oscar Echo November Victor Romeo Whiskey Hotel Mike Sierra Kilo India Juliett Tango Quebec Bravo Alfa,NA,false
+828,12/6/2021,true,Echo November Foxtrot Romeo Papa Charlie Victor India Uniform Hotel Tango X-ray Juliett Sierra Mike Kilo Lima Zulu Golf,EU,true
+829,10/19/2021,false,Mike India Echo Zulu Romeo November Quebec Foxtrot Tango Charlie Oscar Uniform Golf Kilo Victor,NA,true
+830,7/8/2021,true,Mike Zulu Lima Romeo Tango Oscar Alfa Whiskey November Echo Quebec Foxtrot Kilo X-ray Delta Charlie Yankee,NA,true
+831,8/5/2021,true,X-ray Hotel Echo Uniform Quebec Golf November Juliett Lima Zulu Foxtrot Charlie Mike Oscar Bravo Sierra Victor,NA,true
+832,11/18/2021,false,Hotel Charlie Lima Quebec Zulu Uniform Golf Oscar India November,AF,false
+833,10/11/2021,true,Juliett Quebec Charlie Oscar Zulu Mike Yankee Sierra November Victor Uniform Bravo Lima,NA,true
+834,12/11/2021,false,Charlie Delta Uniform Tango Whiskey Yankee Sierra Papa Hotel Juliett Lima Alfa Zulu India Quebec X-ray Oscar Victor,AF,true
+835,7/28/2021,true,Juliett Oscar Charlie Victor Echo Yankee Bravo Hotel Whiskey X-ray Tango November Sierra Papa Romeo Golf,NA,false
+836,7/7/2021,true,Foxtrot Sierra Zulu Mike Romeo Kilo Quebec Whiskey November Bravo,NA,false
+837,12/30/2021,false,Lima Romeo Delta Kilo Sierra Golf Mike X-ray Tango November Papa,NA,false
+838,10/5/2021,true,Kilo Alfa X-ray Uniform Bravo Quebec Juliett Oscar Mike Foxtrot Hotel Lima Whiskey Victor Echo Delta Yankee Zulu Sierra Papa,NA,true
+839,12/14/2021,false,Foxtrot Golf Hotel Uniform Quebec Juliett Whiskey Lima Victor Delta Mike Papa,AS,false
+840,11/27/2021,false,Echo Uniform India Oscar Alfa Foxtrot Kilo Sierra Papa Victor Zulu,EU,true
+841,8/7/2021,true,Kilo Hotel Uniform India Bravo Yankee Quebec Lima Sierra Tango Foxtrot Whiskey Delta X-ray,NA,true
+842,7/26/2021,false,Sierra Whiskey Mike Lima Charlie India Quebec Bravo Yankee Kilo Papa,SA,false
+843,8/26/2021,false,Victor Alfa Uniform X-ray November Echo Golf Kilo Romeo Sierra Whiskey,AS,true
+844,12/11/2021,false,X-ray Charlie Sierra Tango Alfa Kilo Mike November Oscar Juliett Lima Bravo Quebec Zulu Victor,AS,false
+845,7/6/2021,false,Hotel November Juliett Uniform Tango India Yankee Oscar X-ray Delta Alfa Bravo Mike Victor Papa Lima Sierra Foxtrot Kilo,AS,false
+846,10/21/2021,true,India Alfa Kilo November Lima Golf Romeo Foxtrot Quebec Charlie Oscar,NA,false
+847,12/11/2021,true,Delta Tango November Whiskey Lima Mike Charlie Uniform X-ray Quebec Echo Romeo Sierra Papa Juliett Hotel Golf Foxtrot,OC,true
+848,11/25/2021,true,Tango Delta Golf Mike Charlie Bravo Yankee Hotel Zulu November India Whiskey Papa Quebec Juliett Uniform Victor Sierra Kilo,NA,false
+849,7/13/2021,true,Alfa Golf Mike Uniform Sierra Tango India Kilo November Romeo Whiskey X-ray,EU,true
+850,8/26/2021,true,Uniform Romeo Yankee Kilo Bravo India Delta Charlie Quebec Tango,NA,false
+851,11/14/2021,false,Whiskey Sierra Golf November Mike Oscar Foxtrot Romeo Lima Quebec Hotel Uniform Juliett Charlie India,NA,false
+852,10/16/2021,false,Kilo Sierra Whiskey Juliett Foxtrot Charlie Mike Oscar Bravo Zulu,OC,false
+853,7/18/2021,false,Zulu Yankee Bravo Romeo Oscar Golf Alfa Uniform Victor Foxtrot Delta India Sierra Mike X-ray Hotel,NA,true
+854,10/3/2021,false,Foxtrot Tango Hotel Sierra Papa India Yankee Quebec Kilo Zulu Oscar Charlie,EU,false
+855,8/20/2021,false,Yankee Victor Romeo India Juliett Charlie Hotel Alfa Tango Foxtrot,SA,true
+856,10/24/2021,false,India Charlie Lima Juliett Quebec Sierra Echo Bravo Mike Whiskey Oscar,AS,false
+857,12/18/2021,true,Alfa Foxtrot Mike November Papa Echo Uniform Yankee Quebec Delta Romeo,NA,false
+858,9/3/2021,true,Kilo Delta Mike Quebec Hotel Sierra Yankee November Golf Papa Tango Charlie Zulu Romeo,NA,true
+859,7/28/2021,true,Mike Kilo Zulu Victor Bravo Tango Papa Whiskey Lima Uniform Yankee X-ray Echo,AS,true
+860,11/25/2021,true,Delta Kilo Mike Bravo Golf Whiskey Sierra Tango Uniform Alfa Lima Papa Juliett Echo Hotel Foxtrot Quebec Romeo Charlie November,NA,true
+861,10/10/2021,false,Echo Bravo Victor Charlie India Papa Zulu Sierra Tango Golf Alfa Mike Hotel Lima Whiskey Uniform,NA,true
+862,8/28/2021,false,Echo Zulu Juliett Papa Yankee Charlie Victor Alfa Tango Mike Kilo Bravo,NA,true
+863,10/2/2021,false,Hotel Yankee India Golf Charlie Uniform Alfa X-ray Echo Foxtrot,AF,true
+864,11/8/2021,false,Alfa Yankee Uniform Quebec Mike Bravo Whiskey Hotel Echo Foxtrot Delta Tango X-ray Kilo Sierra Juliett November Oscar,SA,true
+865,12/13/2021,false,Papa Mike Foxtrot Quebec Oscar Juliett Bravo Yankee Uniform Sierra Tango Kilo Victor November India Echo Alfa Romeo,EU,true
+866,7/9/2021,true,Quebec Mike Uniform Echo Tango Delta Kilo Foxtrot X-ray India Bravo Alfa Whiskey Juliett Sierra Charlie Golf November,AS,false
+867,9/30/2021,true,Hotel Victor Lima Kilo Tango Quebec Papa November Sierra Bravo Charlie Juliett,AF,true
+868,12/23/2021,true,Alfa Tango X-ray Lima Bravo Hotel Golf Yankee Charlie Zulu,SA,false
+869,12/26/2021,true,India Charlie Tango Foxtrot Zulu Papa Bravo Sierra Mike November Golf Kilo Quebec Alfa,EU,false
+870,7/5/2021,true,Sierra Echo Whiskey Papa Hotel India Kilo Bravo Yankee Lima Uniform Delta November Foxtrot Oscar Juliett Zulu Alfa X-ray,AS,false
+871,7/10/2021,true,X-ray Lima Bravo Papa India Zulu Oscar Romeo Golf Quebec Sierra Alfa Whiskey Tango,AS,true
+872,7/31/2021,true,Whiskey Foxtrot Oscar Tango Mike Juliett Papa Sierra Lima Bravo Victor Delta Charlie Quebec,NA,true
+873,8/14/2021,false,November Zulu Mike Foxtrot Delta Hotel X-ray Yankee Kilo Bravo,NA,true
+874,7/15/2021,true,X-ray Lima Kilo Sierra Golf Papa Romeo November Foxtrot India Uniform Zulu Tango Bravo Hotel Juliett,NA,false
+875,8/26/2021,true,India Papa November Yankee Sierra Mike Golf Bravo X-ray Whiskey Tango Alfa Juliett Oscar Quebec Delta Romeo Echo Hotel,OC,false
+876,7/22/2021,true,Uniform November Tango India Echo Quebec Charlie Yankee Golf Alfa Whiskey Oscar Romeo Hotel Victor X-ray Papa Juliett Kilo Foxtrot,NA,false
+877,9/16/2021,true,Oscar Lima Quebec Mike Sierra India Foxtrot Golf Yankee X-ray Zulu Uniform Victor Kilo Tango Papa Hotel Alfa Delta Charlie,NA,true
+878,9/11/2021,true,November Foxtrot Romeo India Whiskey Lima Zulu Uniform Quebec Charlie Echo Victor Hotel Kilo X-ray Juliett Oscar Sierra Papa,AS,true
+879,11/19/2021,true,Juliett Sierra Uniform Bravo Tango Mike Golf Alfa Whiskey Echo Yankee India,AS,true
+880,7/23/2021,false,November Charlie Zulu Sierra Hotel Victor Lima Quebec Whiskey Tango,AF,true
+881,8/7/2021,false,Kilo Whiskey Mike Alfa Bravo November Uniform Quebec Victor Romeo Juliett Delta Echo,SA,true
+882,10/31/2021,false,Papa Alfa Lima Bravo Foxtrot Echo Mike Romeo India Hotel Yankee Zulu Whiskey,EU,true
+883,11/28/2021,true,Papa Zulu Romeo Yankee Delta Oscar Charlie Alfa Whiskey Echo Sierra Mike,AS,true
+884,9/10/2021,true,Tango Kilo Papa Sierra Foxtrot Lima Victor Alfa Oscar Delta Quebec Golf November Bravo Romeo India X-ray Echo Whiskey,OC,true
+885,11/17/2021,false,Delta Zulu Yankee Lima Alfa Hotel Quebec Charlie Victor Echo X-ray,AS,true
+886,8/3/2021,true,Foxtrot X-ray Sierra Kilo Hotel Charlie Uniform Zulu Romeo Delta Yankee November Echo Mike Bravo,AF,false
+887,8/2/2021,false,India Zulu Golf Foxtrot Charlie Tango Yankee Oscar November Kilo,AS,true
+888,9/6/2021,false,Bravo Hotel Whiskey X-ray Sierra Zulu Golf Alfa November Papa Delta Foxtrot,NA,false
+889,8/5/2021,false,Victor Juliett Oscar Delta Papa Lima Zulu Uniform Yankee Quebec Bravo Charlie Golf,AF,false
+890,12/20/2021,true,India Delta X-ray Hotel Bravo November Romeo Mike Lima Alfa Uniform,AF,true
+891,9/19/2021,false,Bravo Quebec Charlie Mike Lima X-ray Sierra Delta India Yankee Echo Oscar Zulu Whiskey Romeo Tango Juliett Papa Hotel Foxtrot,NA,true
+892,10/18/2021,true,Golf Alfa Zulu Uniform Oscar X-ray Lima India Victor Hotel Tango November Juliett,AS,true
+893,8/20/2021,true,Alfa Golf Hotel Mike Foxtrot Uniform Kilo Papa Echo Delta Romeo,SA,true
+894,11/9/2021,false,Hotel Delta Zulu Yankee Foxtrot Whiskey Juliett November Victor Bravo India Tango,AS,false
+895,8/6/2021,true,India Charlie Golf Romeo Bravo Tango Foxtrot Alfa Sierra November Lima Echo Mike Delta,OC,true
+896,12/19/2021,true,Kilo Hotel X-ray Yankee Mike Golf Delta India Sierra Romeo,NA,false
+897,8/5/2021,false,Tango Sierra Charlie Delta Juliett Uniform Yankee Whiskey Bravo Golf Alfa X-ray Foxtrot Hotel Oscar Zulu Lima Mike November,OC,true
+898,9/14/2021,false,Quebec Bravo Alfa Romeo Zulu Tango Mike India November Kilo Yankee Echo Sierra Juliett Whiskey Oscar Delta Victor,OC,true
+899,7/24/2021,false,Delta X-ray Foxtrot Kilo Charlie Uniform Golf Hotel Yankee Papa Oscar Romeo Lima November Zulu Whiskey Bravo Juliett Sierra Mike,NA,true
+900,12/15/2021,true,India Uniform Juliett Golf Papa Whiskey X-ray Tango Quebec Mike Foxtrot Hotel Yankee Echo November Romeo Lima,SA,false
+901,12/24/2021,false,Yankee Sierra Romeo Whiskey Uniform Zulu Victor Golf Alfa Mike X-ray Quebec Lima,NA,true
+902,8/11/2021,false,Bravo Delta Zulu November Sierra Juliett Alfa Echo Whiskey Yankee India X-ray Lima Foxtrot Quebec Charlie Papa Hotel Uniform,NA,false
+903,11/7/2021,false,Kilo X-ray Zulu Charlie Lima Victor Bravo Foxtrot Whiskey Quebec,NA,false
+904,10/13/2021,false,Romeo Mike Zulu Delta Hotel Lima X-ray Alfa Sierra Charlie Bravo,OC,false
+905,7/27/2021,false,Delta Mike Tango Victor Charlie November X-ray Echo Papa India Bravo Oscar Sierra Hotel Yankee Kilo Juliett Alfa Golf,AS,true
+906,9/1/2021,false,Uniform Lima Oscar Alfa Victor Mike Sierra Tango Romeo Kilo Golf Foxtrot Delta Papa Bravo Echo Zulu India November,AF,true
+907,8/22/2021,true,Lima Kilo November Yankee Bravo Quebec Zulu Charlie Whiskey Uniform India Juliett Mike,OC,true
+908,9/18/2021,true,X-ray Papa November Quebec Whiskey Uniform Lima Tango Yankee Bravo Charlie Zulu Kilo,OC,true
+909,8/16/2021,false,Echo November Papa Yankee Mike India Whiskey Zulu Kilo Delta,AS,true
+910,10/11/2021,false,X-ray Kilo Papa Echo Oscar Tango Mike Romeo Zulu Yankee Hotel Whiskey Delta India Uniform Charlie Quebec Juliett Alfa Lima,EU,true
+911,11/9/2021,false,Oscar Golf Zulu Quebec Echo X-ray Victor Papa Juliett Uniform Kilo Foxtrot Tango Sierra,SA,true
+912,8/5/2021,false,Alfa Uniform Tango Juliett Foxtrot Sierra Hotel Oscar Kilo Delta Charlie Romeo,NA,false
+913,7/28/2021,false,X-ray Echo Zulu Papa Uniform Romeo Alfa Juliett Hotel Yankee Mike,NA,true
+914,9/12/2021,true,Oscar Foxtrot Bravo India Uniform Hotel November Mike X-ray Quebec Whiskey Kilo Papa Yankee,EU,false
+915,8/25/2021,true,Delta Bravo Foxtrot Oscar Yankee Victor Kilo Tango November Papa X-ray Echo Hotel,OC,true
+916,12/27/2021,false,Juliett Kilo Tango Golf Delta Lima Uniform X-ray India Hotel Alfa Bravo Romeo Mike November Yankee Sierra Whiskey Victor Foxtrot,AS,false
+917,10/3/2021,false,Papa Whiskey Sierra Uniform November Zulu Tango Victor Oscar Hotel India Lima Quebec Delta Juliett Charlie Mike Foxtrot X-ray,AS,true
+918,10/13/2021,false,Delta Hotel Quebec Juliett India Zulu Foxtrot Alfa Golf Sierra Oscar Echo Uniform Yankee Kilo Charlie Papa Victor,OC,true
+919,10/6/2021,true,Quebec Golf Echo Yankee Sierra Kilo India Delta X-ray Uniform Zulu Tango Romeo Lima November,NA,true
+920,12/9/2021,false,Tango Oscar Echo India X-ray Quebec Papa Uniform Bravo Romeo Victor Hotel,NA,true
+921,10/29/2021,false,Romeo X-ray Quebec Victor Sierra Echo Uniform Delta Lima Hotel Foxtrot Oscar Mike Golf Juliett Yankee Tango Whiskey Zulu,NA,true
+922,12/25/2021,true,Kilo Juliett Mike Quebec Oscar Sierra Echo Delta Victor Zulu Papa Charlie November Hotel Bravo Golf Uniform Lima Foxtrot Whiskey,EU,false
+923,8/20/2021,true,Yankee Lima Bravo Romeo Victor X-ray November Juliett Quebec Tango Mike,SA,true
+924,9/11/2021,true,Alfa Romeo Bravo Charlie Uniform Whiskey Golf Sierra November Victor Zulu Mike Oscar Echo Juliett Lima Papa Yankee,NA,false
+925,10/17/2021,false,Echo Papa Whiskey Kilo Tango Hotel Golf Quebec India Delta Oscar X-ray Foxtrot,EU,false
+926,12/22/2021,true,Uniform Romeo Papa Victor Lima Yankee November Alfa Charlie Juliett Delta Bravo,AS,true
+927,9/20/2021,false,Foxtrot Mike Tango India Echo Hotel Sierra Quebec X-ray Romeo Papa Kilo Zulu Uniform Whiskey,EU,true
+928,10/21/2021,true,Uniform Zulu Echo Oscar Kilo Victor Whiskey Delta Lima Quebec Golf Yankee Hotel Charlie November X-ray Romeo,NA,false
+929,12/10/2021,true,Lima November Bravo Charlie India Mike Victor Sierra Golf Romeo Foxtrot Alfa Whiskey Delta,AS,false
+930,11/15/2021,true,Sierra India Victor Alfa Lima Echo Zulu November Quebec Yankee Charlie,AS,true
+931,12/28/2021,true,Zulu Victor Hotel Kilo Sierra Papa Tango November Echo Juliett X-ray Charlie Quebec Foxtrot India Bravo,NA,false
+932,11/22/2021,true,Echo Sierra Kilo November Delta Foxtrot Lima Juliett Bravo India Golf Quebec Tango Uniform Hotel Romeo,NA,false
+933,7/5/2021,true,Foxtrot Sierra Kilo Golf Zulu Charlie Oscar November Mike India Yankee Whiskey Uniform Juliett Hotel Romeo Echo Bravo Papa X-ray,NA,false
+934,9/22/2021,true,Papa Uniform Lima Oscar X-ray Sierra Alfa November Juliett Yankee Delta Golf Hotel Kilo,NA,true
+935,8/19/2021,true,Charlie India Hotel Delta Foxtrot X-ray Whiskey Lima Mike Juliett Sierra Bravo Golf Zulu Romeo,AS,true
+936,11/17/2021,false,Tango Mike Hotel Charlie Juliett November Oscar Yankee Golf Victor,OC,false
+937,12/5/2021,false,X-ray Zulu Alfa Yankee Juliett Delta Tango Oscar Bravo Uniform Whiskey Kilo,OC,true
+938,8/20/2021,true,Mike Sierra Quebec Papa November Romeo Zulu Foxtrot India Tango Lima Alfa Delta Whiskey Bravo Echo Yankee Uniform,NA,false
+939,11/3/2021,false,Delta India Hotel Lima Echo Uniform Bravo Zulu Romeo Alfa X-ray Golf Papa Oscar Victor Quebec Sierra Kilo Mike Yankee,SA,true
+940,7/23/2021,true,Sierra Echo Whiskey Golf Yankee Foxtrot Charlie Alfa Quebec Papa Mike X-ray Zulu,AS,false
+941,8/21/2021,false,Lima Yankee Delta Tango Foxtrot Quebec Hotel Whiskey Zulu Bravo Alfa Oscar India November Uniform,AS,false
+942,9/17/2021,false,Oscar Golf Alfa Foxtrot Yankee Charlie Papa Delta Juliett Victor Kilo Echo Sierra Zulu Quebec Mike Whiskey India,NA,true
+943,12/3/2021,true,Juliett Mike Charlie Quebec Echo Foxtrot Uniform Whiskey Victor Yankee Bravo Sierra Romeo November Papa,AF,false
+944,7/29/2021,true,Whiskey Oscar Zulu Mike Victor Quebec Juliett Romeo November Tango Charlie Golf Sierra Bravo Delta Lima Hotel Echo Foxtrot Alfa,EU,false
+945,8/4/2021,false,Sierra Foxtrot Alfa Oscar Romeo Hotel Uniform Whiskey Lima India Yankee Kilo Mike,AS,false
+946,8/8/2021,true,Oscar Romeo Whiskey Bravo Mike X-ray Kilo Echo Yankee Foxtrot Juliett Tango Lima Papa,NA,true
+947,12/8/2021,true,Whiskey Tango India Golf Bravo Foxtrot November Juliett Yankee Oscar Lima Alfa Romeo Uniform Echo X-ray Mike Delta Charlie Hotel,EU,false
+948,7/4/2021,false,India Lima Bravo Mike Whiskey Quebec November Echo Zulu Foxtrot Delta Juliett Charlie Alfa Kilo X-ray Sierra Golf,NA,true
+949,10/1/2021,false,Uniform Delta Lima Bravo Echo Quebec Sierra X-ray India Yankee Golf Victor Foxtrot,SA,false
+950,9/10/2021,true,Yankee Charlie Delta X-ray Oscar Echo Uniform Golf Whiskey India Bravo Quebec Papa Romeo Kilo,NA,true
+951,7/7/2021,true,Charlie Juliett Golf Lima Victor Whiskey Foxtrot Tango Romeo Mike Zulu Delta Sierra November Echo India X-ray Papa,OC,false
+952,10/25/2021,false,Oscar Whiskey Yankee X-ray Foxtrot Uniform Romeo Zulu November Victor Lima Kilo,AS,false
+953,7/11/2021,true,Alfa Foxtrot Bravo India Tango Zulu Kilo Sierra Hotel Charlie November Quebec Juliett Yankee Oscar Golf,OC,false
+954,12/3/2021,true,Delta November Foxtrot Charlie Mike Papa X-ray Romeo Sierra Uniform Echo Golf Whiskey Zulu Bravo Oscar Lima Hotel India,AS,false
+955,10/3/2021,true,Foxtrot Oscar India Victor Papa Juliett Whiskey Tango Hotel Quebec Echo November Bravo Zulu Romeo Golf Sierra Mike Lima Alfa,OC,false
+956,10/29/2021,true,Delta Papa November Uniform Victor Sierra X-ray Alfa Golf Mike Echo Whiskey Charlie Zulu Quebec Lima Yankee Juliett,SA,true
+957,10/27/2021,true,Papa Echo Golf Victor Juliett Tango Zulu Sierra Romeo Charlie Hotel India Alfa Oscar Delta,AF,false
+958,8/6/2021,false,Golf Papa Tango Quebec Romeo Foxtrot Victor Juliett X-ray Uniform Delta Lima Echo November India Hotel Alfa,SA,false
+959,10/11/2021,true,Victor X-ray Mike Golf Hotel Tango Yankee Charlie Whiskey India Lima Echo Zulu Sierra Bravo Delta November Quebec Kilo,AF,false
+960,10/15/2021,false,Sierra Oscar Uniform Foxtrot Echo Romeo November Mike Lima Bravo India,SA,false
+961,7/14/2021,true,X-ray November Mike Echo Papa Zulu Kilo Alfa Romeo India Bravo Juliett,AF,true
+962,9/6/2021,true,Kilo India Yankee Tango Papa Hotel Romeo Lima Uniform Alfa Golf Bravo Oscar Charlie Quebec Juliett Whiskey,AS,true
+963,11/21/2021,false,Echo Whiskey Mike Papa Victor Golf Charlie Lima Bravo Tango Oscar,EU,true
+964,8/27/2021,false,Lima India November X-ray Sierra Victor Charlie Foxtrot Papa Mike Quebec Romeo Uniform Hotel Yankee,NA,true
+965,9/3/2021,false,Whiskey November Oscar Alfa India Mike Papa Romeo Zulu Juliett Tango Echo Yankee Foxtrot Victor Bravo X-ray,AS,true
+966,10/7/2021,true,X-ray Echo Oscar Hotel Alfa Sierra Papa Foxtrot Whiskey Charlie Kilo Zulu,AS,false
+967,9/12/2021,false,Romeo November Mike Echo India Whiskey Juliett Delta Lima Kilo Quebec Hotel Oscar Papa X-ray,AS,false
+968,12/12/2021,true,Bravo Yankee Victor Golf Hotel Quebec Delta X-ray Whiskey Lima Alfa India Charlie,OC,true
+969,11/18/2021,false,Oscar Bravo Zulu Hotel Juliett Tango Whiskey Romeo Uniform Charlie Delta India Victor Kilo November Echo Mike Foxtrot,AF,false
+970,8/20/2021,true,Bravo X-ray Whiskey Delta Charlie Mike Lima Echo Quebec Uniform Golf Alfa Yankee Zulu,AS,false
+971,11/27/2021,true,Bravo Juliett Echo Kilo Tango India Golf Oscar Whiskey Charlie Lima Mike Alfa Hotel X-ray November Zulu Papa Quebec,SA,true
+972,9/26/2021,true,Bravo Yankee Tango India Whiskey Echo Oscar Sierra November Zulu Papa Victor Delta,NA,true
+973,11/10/2021,false,Echo Bravo Foxtrot Sierra Victor Juliett Romeo November India X-ray,OC,false
+974,7/9/2021,true,Oscar Foxtrot India Delta Echo Kilo Quebec Bravo X-ray Whiskey Hotel Romeo Victor Tango Charlie Papa November,SA,true
+975,8/8/2021,true,Golf X-ray Alfa Uniform Lima Oscar Papa Sierra Hotel Yankee Bravo Echo Tango Charlie Foxtrot Zulu,AF,true
+976,9/22/2021,true,Victor Kilo Echo Lima India Sierra Charlie Zulu Quebec Oscar Papa,NA,false
+977,8/15/2021,false,November Tango Whiskey India Sierra Yankee Golf Victor Papa Echo Romeo Kilo Juliett X-ray Foxtrot,AS,true
+978,11/30/2021,false,Victor November Romeo Golf Oscar Foxtrot Quebec Hotel Papa Lima India X-ray,AS,false
+979,7/26/2021,true,Whiskey Hotel Oscar India Bravo Yankee Charlie Zulu Alfa November,AS,false
+980,8/11/2021,false,Kilo Lima Mike Romeo Victor Foxtrot Oscar Papa Sierra Golf Yankee November Hotel Zulu Charlie India,NA,false
+981,8/24/2021,false,Mike Foxtrot Romeo Lima Tango Sierra India Bravo Hotel Golf Victor November Yankee Uniform Oscar Quebec Kilo Echo Charlie Zulu,SA,true
+982,12/7/2021,true,Tango Foxtrot Hotel Lima X-ray Sierra Mike Whiskey Oscar Bravo Juliett Echo Alfa Papa Victor Kilo Uniform November,NA,true
+983,11/1/2021,false,November Quebec Kilo Yankee Victor India Papa Tango Charlie Lima Echo X-ray Uniform Bravo Zulu Golf Sierra Whiskey Romeo,AF,false
+984,10/29/2021,false,Charlie Delta November Victor Juliett Foxtrot Papa Romeo Zulu Golf Sierra Quebec Lima Mike Alfa Yankee Hotel India Tango X-ray,AS,false
+985,12/23/2021,false,Papa Yankee Tango Whiskey Lima Victor Juliett India Echo Zulu Sierra,AF,false
+986,10/24/2021,true,Romeo Foxtrot Golf Bravo Tango Kilo Quebec Yankee Zulu Juliett Lima,AS,false
+987,12/2/2021,false,Zulu Uniform X-ray Mike Oscar Hotel Lima Juliett Tango Bravo Victor,NA,true
+988,7/1/2021,true,Juliett Bravo Hotel Kilo Lima Alfa November Golf Romeo Charlie,EU,false
+989,12/18/2021,true,Mike Lima Uniform Delta Alfa November Yankee Quebec Papa Tango Echo Zulu X-ray,SA,true
+990,8/30/2021,true,India Romeo Whiskey Hotel Zulu Victor Tango Oscar Alfa Yankee,AS,false
+991,9/2/2021,false,Hotel Oscar Zulu Alfa India Golf X-ray Bravo Tango Victor November Juliett Quebec Papa Romeo,EU,false
+992,11/5/2021,false,Mike Romeo Sierra Juliett Tango Charlie Oscar India Zulu Delta,NA,true
+993,11/4/2021,false,Golf Oscar Sierra Victor Quebec Echo Tango Delta Alfa Juliett Kilo Romeo Uniform Hotel Lima Yankee Whiskey,AS,false
+994,10/20/2021,true,Whiskey Mike Sierra Uniform Foxtrot Quebec Hotel Kilo Alfa X-ray Victor Juliett Delta Golf Papa Bravo Romeo Tango November Oscar,AS,true
+995,9/29/2021,false,Lima Foxtrot Sierra Juliett X-ray Whiskey Uniform Tango Zulu Golf Echo,NA,false
+996,11/23/2021,false,Bravo Hotel Juliett Golf Quebec Delta November Oscar Uniform Lima Yankee Alfa X-ray Mike Tango Zulu Charlie,OC,true
+997,10/8/2021,true,Lima Golf Bravo Hotel Papa India X-ray Delta Victor Romeo Quebec Echo Sierra,SA,true
+998,7/5/2021,false,Kilo Zulu November Juliett Delta Sierra Oscar Uniform Victor Lima Golf Whiskey Foxtrot Charlie Quebec Romeo,EU,true
+999,7/7/2021,true,Delta Mike Charlie Oscar Zulu Victor Hotel Yankee Tango November Quebec X-ray Papa Foxtrot India,SA,true
+1000,10/27/2021,false,Oscar Victor Bravo Quebec Whiskey Delta Charlie Zulu Golf Papa X-ray Juliett Echo Hotel India Uniform Tango Yankee November Alfa,NA,true
