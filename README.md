@@ -1,1 +1,0 @@
-# Technical_test
